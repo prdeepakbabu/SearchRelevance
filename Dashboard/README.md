@@ -1,4 +1,4 @@
-ily Search Metrics
+Daily Search Metrics
 - daily email report of key search metrics for previous day, involves top 100 keywords imp,click,buy and CTR,CVR along with max positions clicked and browsed.
 
 Pre-Requisites
