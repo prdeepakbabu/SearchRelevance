@@ -5,6 +5,7 @@ dt1=`date --date="1 days ago" +%Y%m%d`
 home="/home/hduser/dashboard"
 spark_loc="/home/hduser/spark-1.4.1-bin-hadoop2.6/bin"
 export JAVA_HOME=/usr/lib/jvm/java-1.7.0-openjdk-amd64
+email="deepak.babu@snapdeal.com"
 
 #copy from S3
 aws s3 cp  "s3://sd-logarchive/minerva-logging/minerva-tomcat01_pub/minerva-tomcat/server.log.$dt.bz2" "$home/A/"
@@ -28,5 +29,5 @@ cat $home/$dt1/final.json | sed -e 's/" //g' | sed -e 's/"//g' > final1.json
 $home/csv2html.sh --head $home/$dt1/final1.json > $home/$dt1/final2.html
 
 #mail the generated html
-mailx -a "Content-Type: text/html" -s "Daily Search Metrics - $dt" deepak.babu@snapdeal.com < $home/$dt1/final2.html
+mailx -a "Content-Type: text/html" -s "Daily Search Metrics - $dt" $email < $home/$dt1/final2.html
 

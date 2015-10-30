@@ -25,7 +25,7 @@ eval cat $src/part* > "$tgt/final.json"
 #rm -rf "$tgt"
 
 #convert json(after preprocess) to csv"
-cat $home/$dt1/final.json | sed -e 's/" //g' | sed -e 's/"//g' > final1.json
+cat $home/$dt1/final.json | sed -e 's/" //g' | sed -e 's/"//g' > $home/$dt1/final1.json
 $home/csv2html.sh --head $home/$dt1/final1.json > $home/$dt1/final2.html
 
 #mail the generated html
