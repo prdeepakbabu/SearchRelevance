@@ -1,0 +1,10 @@
+<font size="2">
+<ul>
+<li>Source: Minerva (which covers web searches only). Date: Previous Day (0H-23H)</li>
+<li>Clicks, Impressions & Buy indicate unique users who searched, clicked & bought.
+<li>CTR aka click-thru-rate is defined as ratio of unique user clicks to unique user impressions. CVR aka conversion rate is defined as ratio of unique user buys to unique user clicks.</li>
+<li>"Buy" event here is actually counting ADD_TO_CART event of minerva as a proxy for actual buy</li>
+<li>The report below shows top 100 queries( based on impressions) seen on web searches. Queries are sorted by decreasing order of impressions.</li>
+<li>max_pos_imp indicates the maximum position until which users have scrolled down while seeing the SERP. max_pos_click indicates the maximum position clicked for the particular query. These metrics can explain user behavior about head and tail queries.</li>
+<li>No pre-processing of queries (like case insensivity, stemming, stopwords removal,etc) has been done. All queries seen below are exact raw queries typed by users.</li>
+</font>
