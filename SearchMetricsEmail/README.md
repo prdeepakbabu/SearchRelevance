@@ -1,12 +1,12 @@
 #Daily Search Metrics
 **Daily email report of key search metrics for previous day, involves top 100 keywords imp,click,buy and CTR,CVR along with max positions clicked and browsed.**
 
-##Pre-Requisites
-(1) aws setup for S3 search
-(2) Apache Spark 1.4 and above
-(3) csv2html.sh (provided here)
-(4) setup for mailx
+###Pre-Requisites (Unix Only)
+* aws setup for S3 search
+* Apache Spark 1.4 and above
+* csv2html.sh (provided here)
+* setup for mailx
 
-##Steps to run:
-(1) Setup the parameter variables in start.sh ie. directory to create outputs, etc.
-(2) sh start.sh 
+###Steps to run:
+* Setup the parameter variables in start.sh ie. directory to create outputs, etc.
+* sh start.sh 
