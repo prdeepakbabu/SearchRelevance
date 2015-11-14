@@ -30,8 +30,8 @@ eval cat $src/part* > "$tgt/final.json"
 
 #convert json(after preprocess) to csv"
 cat "$loc2/final.json" | sed -e 's/" //g' | sed -e 's/"//g' > "$loc2/final1.json"
-$src/csv2html.sh --head "$loc2/final1.json" > "$loc2/final2.html"
-cat $src/header.txt > "$loc2/new.html"
+$home/csv2html.sh --head "$loc2/final1.json" > "$loc2/final2.html"
+cat $home/header.txt > "$loc2/new.html"
 cat "$loc2/final2.html" >> "$loc2/new.html"
 mailx -a "Content-Type: text/html" -s "Daily Search Metrics - $dt" deepak.babu@snapdeal.com < "$loc2/new.html"
 
