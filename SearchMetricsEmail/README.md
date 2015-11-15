@@ -8,5 +8,5 @@
 * setup for mailx
 
 ###Steps to run:
-* Setup the parameter variables in start.sh ie. directory to create outputs, etc.
+* Setup the parameter variables in start.sh ie. directory to create outputs, email ids of users who recieve the report,etc.
 * sh start.sh 

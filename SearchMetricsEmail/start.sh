@@ -10,6 +10,7 @@ export loc="$home/log.txt"
 export loc1="$home/cart.txt"
 export loc2="$home/$dt1"
 SPARK_HOME="/home/deepak/Downloads/spark-1.5.1-bin-hadoop2.6"
+EMAIL="deepak.babu@snapdeal.com"
 
 #copy from S3
 aws s3 cp  "s3://sd-logarchive/minerva-logging/minerva-tomcat01_pub/minerva-tomcat/server.log.$dt.bz2" "$home/A/"
@@ -33,5 +34,5 @@ cat "$loc2/final.json" | sed -e 's/" //g' | sed -e 's/"//g' > "$loc2/final1.json
 $home/csv2html.sh --head "$loc2/final1.json" > "$loc2/final2.html"
 cat $home/header.txt > "$loc2/new.html"
 cat "$loc2/final2.html" >> "$loc2/new.html"
-mailx -a "Content-Type: text/html" -s "Daily Search Metrics - $dt" deepak.babu@snapdeal.com < "$loc2/new.html"
+mailx -a "Content-Type: text/html" -s "Daily Search Metrics - $dt" $EMAIL < "$loc2/new.html"
 
