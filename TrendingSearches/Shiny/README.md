@@ -1,0 +1,2 @@
+#Trending Searches
+R shinyapp to identify trending searches using search logs(minerva) each hour compared to previous hour considering 24-hour frequency for normalizing. The R script uses compressed files (.gz) which are directly read into the shiny app. Google charts is used for showing the trending behavior for the trending keywords. 
