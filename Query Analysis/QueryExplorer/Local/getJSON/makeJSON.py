@@ -7,7 +7,7 @@ import sys
 # Using recursion to create json for viz
 ###########################################
 #read the input file with just all search terms
-inp=pd.read_csv("/home/deepak/input.csv",sep=",",header=0,dtype=str); 
+z4=pd.read_csv("/home/deepak/input.csv",sep=",",header=0,dtype=str); 
 
 #write output to a file to create intermediate structure
 #from,to,level
