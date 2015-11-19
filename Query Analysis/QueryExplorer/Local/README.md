@@ -15,3 +15,9 @@ bluetooth supported earphone<br />
 ## [getJSON/makeJSON.py]Creating JSON as understood by D3.js tree layout. (Using python recursive implementation to create the json)
 {"name":"bags","children":[{"name":"for","children":[{"name":"boys","children":[{"name":"and","children":[{"name":"gents","children":[]}]},{"name":"american","children":[{"name":"tourister","children":[]}]}]},{"name":"men","children":[]},{"name":"mens","children":[]},{"name":"girls","children":[]},{"name":"carrying","children":[{"name":"jym","children":[{"name":"things","children.....
 
+
+## Enhancements Planned
+* Ability to limit Top n at the 2nd level to bring a notion of important vs. less-important searches
+* Also this makes the tree more readable at normal zoom levels
+* Show Absolute counts in brackets adjacent to the searched term
+
