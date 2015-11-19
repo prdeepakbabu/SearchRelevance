@@ -1,6 +1,9 @@
 # Query Explorer
  D3.js backed visualization of search queries in a tree fashion to uncover user query formulation strategies and improve search experience. Link to the public version of tool <a href="http://bl.ocks.org/prdeepakbabu/raw/c7e490a7550e24182b8a" target="_blank">here</a>.<br />
  URL : http://bl.ocks.org/prdeepakbabu/raw/c7e490a7550e24182b8a/
+ Updated(URL): http://bl.ocks.org/prdeepakbabu/raw/09f8cc964487a4c40ea3
+ 
+ GIST Link: https://gist.github.com/prdeepakbabu/09f8cc964487a4c40ea3
 
 ## Tech Stack
 * D3.js (tree visualization)
