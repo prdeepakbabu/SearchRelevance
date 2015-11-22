@@ -3,6 +3,7 @@
 
 ###Pre-Requisites (Unix Only)
 * aws setup for S3 search
+* R with sqldf library
 * Apache Spark 1.4 and above
 * csv2html.sh (provided here)
 * setup for mailx

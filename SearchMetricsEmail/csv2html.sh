@@ -95,8 +95,8 @@ awk -F "$d" -v last=$last $head $foot '
     print "  <table border=1 align='center' style='font-family:sans-serif' class='gridtable' >"
   }       
   {
-    gsub(/</, "\\&lt;")
-    gsub(/>/, "\\&gt;")
+#    gsub(/</, "\\&lt;")
+#    gsub(/>/, "\\&gt;")
     if(NR == 1 && hdr) {  
       printf "    <thead>\n"
     gsub(/&/, "\\&gt;")    }

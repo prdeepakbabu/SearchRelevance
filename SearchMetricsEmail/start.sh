@@ -31,8 +31,17 @@ eval cat $src/part* > "$tgt/final.json"
 
 #convert json(after preprocess) to csv"
 cat "$loc2/final.json" | sed -e 's/" //g' | sed -e 's/"//g' > "$loc2/final1.json"
-$home/csv2html.sh --head "$loc2/final1.json" > "$loc2/final2.html"
+#run R script
+d0=`date --date="1 days ago" +%Y%m%d`
+d1=`date --date="2 days ago" +%Y%m%d`
+Rscript postprocess.R "$home/" $d0 $d1
+
+
+$home/csv2html.sh --head "$loc2/final2.json" > "$loc2/final2.html"
+$home/csv2html.sh --head "$home/$dt1/trend.csv" > "$home/$dt1/trend.html"
 cat $home/header.txt > "$loc2/new.html"
+cat "$home/$dt1/trend.html" >>  "$loc2/new.html"
+cat "$home/$dt1/chart.csv" >> "$loc2/new.html"
 cat "$loc2/final2.html" >> "$loc2/new.html"
 mailx -a "Content-Type: text/html" -s "Daily Search Metrics - $dt" $EMAIL < "$loc2/new.html"
 

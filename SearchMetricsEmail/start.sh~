@@ -34,5 +34,5 @@ cat "$loc2/final.json" | sed -e 's/" //g' | sed -e 's/"//g' > "$loc2/final1.json
 $home/csv2html.sh --head "$loc2/final1.json" > "$loc2/final2.html"
 cat $home/header.txt > "$loc2/new.html"
 cat "$loc2/final2.html" >> "$loc2/new.html"
-mailx -a "Content-Type: text/html" -s "Daily Search Metrics - $dt" deepak.babu@snapdeal.com < "$loc2/new.html"
+mailx -a "Content-Type: text/html" -s "Daily Search Metrics - $dt" $EMAIL < "$loc2/new.html"
 
