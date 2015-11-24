@@ -44,4 +44,4 @@ cat "$home/$dt1/trend.html" >>  "$loc2/new.html"
 cat "$home/$dt1/chart.csv" >> "$loc2/new.html"
 cat "$loc2/final2.html" >> "$loc2/new.html"
 mailx -a "Content-Type: text/html" -s "Daily Search Metrics - $dt" $EMAIL < "$loc2/new.html"
-
+#mail -s "$(echo -e "Daily Search Metrics - $dt\nContent-Type:text/html")"  $EMAIL < "$loc2/new.html"
