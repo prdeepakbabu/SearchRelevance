@@ -34,7 +34,7 @@ cat "$loc2/final.json" | sed -e 's/" //g' | sed -e 's/"//g' > "$loc2/final1.json
 #run R script
 d0=`date --date="1 days ago" +%Y%m%d`
 d1=`date --date="2 days ago" +%Y%m%d`
-Rscript postprocess.R "$home/" $d0 $d1
+Rscript $home/postprocess.R "$home/" $d0 $d1
 
 
 $home/csv2html.sh --head "$loc2/final2.json" > "$loc2/final2.html"
