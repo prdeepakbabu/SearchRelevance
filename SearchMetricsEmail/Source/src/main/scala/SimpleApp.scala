@@ -11,11 +11,18 @@ object SimpleApp {
     val sc = new SparkContext(conf)
 val sqlContext = new SQLContext(sc);
 val fl_loc=args(0);
+val fl_clk=args(3);
 val df = sqlContext.read.format("com.databricks.spark.csv").option("header", "false") .option("inferSchema", "true") .load(fl_loc);
 
 val dt=df.toDF("time","datetime","event","cookie","email","query","pogs","pos");
 dt.registerTempTable("dtl");
-var clk =sqlContext.sql("select query as query,count(distinct cookie) as cnt,max(cast(pos as integer)) as pos from dtl where event = ' SEARCH_CLICK' group by query order by cnt desc limit 250 ");
+
+val df1 = sqlContext.read.format("com.databricks.spark.csv").option("header", "false") .option("inferSchema", "true") .load(fl_clk);
+
+val dt1=df1.toDF("time","datetime","event","cookie","email","query","pogs","pos","ispartial");
+dt1.registerTempTable("cl");
+
+var clk =sqlContext.sql("select query as query,count(distinct cookie) as cnt,max(cast(pos as integer)) as pos from cl where event = ' SEARCH_CLICK' group by query order by cnt desc limit 250 ");
 clk.registerTempTable("clk");
 
 var imp =sqlContext.sql("select a.query,count(distinct a.cookie) as imp_cnt, max(b.cnt) as clk_cnt,  max(b.cnt) * 100/count(distinct a.cookie) as ctr, max(cast(b.pos as integer)) as clk_max_pos, max(cast(a.pos as integer)) as imp_max_pos from dtl a,clk b  where a.query = b.query and event = ' SEARCH_IMPRESSION' group by a.query order by imp_cnt desc limit 250 ");
