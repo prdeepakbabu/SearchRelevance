@@ -14,7 +14,7 @@ val fl_loc=args(0);
 val fl_clk=args(3);
 val df = sqlContext.read.format("com.databricks.spark.csv").option("header", "false") .option("inferSchema", "true") .load(fl_loc);
 
-val dt=df.toDF("time","datetime","event","cookie","email","query","pogs","pos");
+val dt=df.toDF("time","datetime","event","cookie","email","query","pogs","pos","numres","issuggested","ispartial","isspellcheckused","corword","incorword");
 dt.registerTempTable("dtl");
 
 val df1 = sqlContext.read.format("com.databricks.spark.csv").option("header", "false") .option("inferSchema", "true") .load(fl_clk);
