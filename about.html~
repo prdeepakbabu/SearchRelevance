@@ -1,0 +1,10 @@
+<html>
+<body>
+ <h2 align="center"> About the Report </h2>
+ <ul>
+   <li>All keyword searches for a day has been visualized.</li>
+   <li>The Size of the tile indicates volume of searches.</li>
+   <li>Intensity of color(red) indicates performance of query.ie. A dark red tile is poorly performing compared to lighter shade of red tile.Performance is charecterized based on CTR</li>
+   <li>Searches shown here covers all platforms(web,wap and app)</li>  
+   <li>Hover over to the tile to see the complete query along with CTR figure.</li>
+
