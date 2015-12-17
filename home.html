@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Search Data</title>
+	<!-- jQuery library (served from Google) -->
+	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
+	<!-- bxSlider Javascript file -->
+	<script src="js/jquery.bxslider.min.js"></script>
+	<!-- bxSlider CSS file -->
+	<link href="css/jquery.bxslider.css" rel="stylesheet" />
+</head>
+<body>
+	<ul class="bxslider">
+	  <li>
+	  	<iframe src="20151216_1.html" width="100%" frameborder="0" class="frame"></iframe>
+	  </li>
+	  <li>
+	  	<iframe src="20151216_2.html" width="100%" frameborder="0" class="frame"></iframe>
+	  </li>
+	  <li>
+	  	<iframe src="20151216_3.html" width="100%" frameborder="0" class="frame"></iframe>
+	  </li>
+	</ul>
+	<script type="text/javascript">
+		$(document).ready(function(){
+		  $('.bxslider').bxSlider({
+		  	auto: true,
+			pause:10000
+		  });
+		});
+		var h = $(window).height() * 0.85;
+		$(document).find('.frame').each(function(){
+			$(this).attr('height',h);
+		});
+	</script>
+</body>
+</html>
