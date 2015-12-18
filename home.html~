@@ -10,6 +10,11 @@
 	<link href="css/jquery.bxslider.css" rel="stylesheet" />
 </head>
 <body>
+        <a href="20151216_1.html">Page 1</a>|&nbsp;&nbsp;
+        <a href="20151216_2.html">Page 2</a>|&nbsp;&nbsp;
+        <a href="20151216_3.html">Page 3</a>|&nbsp;&nbsp;
+        <a href="about.html">About</a>|&nbsp;&nbsp;
+        <a href="contact.html">Contact Us</a>|&nbsp;&nbsp;
 	<ul class="bxslider">
 	  <li>
 	  	<iframe src="20151216_1.html" width="100%" frameborder="0" class="frame"></iframe>
@@ -28,16 +33,12 @@
 			pause:10000
 		  });
 		});
-		var h = $(window).height() * 0.85;
+		var h = $(window).height() * 0.90;
 		$(document).find('.frame').each(function(){
 			$(this).attr('height',h);
 		});
 	</script>
-        <a href="20151216_1.html">Page 1</a>|&nbsp;&nbsp;
-        <a href="20151216_2.html">Page 2</a>|&nbsp;&nbsp;
-        <a href="20151216_3.html">Page 3</a>|&nbsp;&nbsp;
-        <a href="about.html">About</a>
-        <a href="contact.html">Contact Us</a>
+
 
 </body>
 </html>
