@@ -8,8 +8,15 @@
 	<script src="js/jquery.bxslider.min.js"></script>
 	<!-- bxSlider CSS file -->
 	<link href="css/jquery.bxslider.css" rel="stylesheet" />
+<script type="text/JavaScript">
+<!--
+function timedRefresh(timeoutPeriod) {
+	setTimeout("location.reload(true);",timeoutPeriod);
+}
+//   -->
+</script>
 </head>
-<body>
+<body onload="JavaScript:timedRefresh(65000);">
         <a href="20151216_1.html">Page 1</a>|&nbsp;&nbsp;
         <a href="20151216_2.html">Page 2</a>|&nbsp;&nbsp;
         <a href="20151216_3.html">Page 3</a>|&nbsp;&nbsp;
