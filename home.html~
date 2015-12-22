@@ -30,10 +30,10 @@
 		$(document).ready(function(){
 		  $('.bxslider').bxSlider({
 		  	auto: true,
-			pause:10000
+			pause:30000
 		  });
 		});
-		var h = $(window).height() * 0.90;
+		var h = $(window).height() * 0.99;
 		$(document).find('.frame').each(function(){
 			$(this).attr('height',h);
 		});
