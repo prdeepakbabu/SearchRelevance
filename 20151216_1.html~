@@ -233,7 +233,7 @@ function showFullTooltip(row, size, value) {
         highlightOnMouseOver: true,
         maxDepth: 1,
         maxPostDepth: 2,
-        title:'Bad Search Querie - Page 1 [0 - 200]'
+        title:'Bad Search Queries - Page 1 [0 - 200]'
         });
 
       }
