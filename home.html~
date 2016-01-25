@@ -16,7 +16,7 @@ function timedRefresh(timeoutPeriod) {
 //   -->
 </script>
 </head>
-<body onload="JavaScript:timedRefresh(65000);">
+<body onload="JavaScript:timedRefresh(10800000);">
         <a href="20151216_1.html">Page 1</a>|&nbsp;&nbsp;
         <a href="20151216_2.html">Page 2</a>|&nbsp;&nbsp;
         <a href="20151216_3.html">Page 3</a>|&nbsp;&nbsp;
@@ -31,6 +31,9 @@ function timedRefresh(timeoutPeriod) {
 	  </li>
 	  <li>
 	  	<iframe src="20151216_3.html" width="100%" frameborder="0" class="frame"></iframe>
+	  </li>
+	  <li>
+	  	<iframe src="ts.html" width="100%" frameborder="0" class="frame"></iframe>
 	  </li>
 	</ul>
 	<script type="text/javascript">
