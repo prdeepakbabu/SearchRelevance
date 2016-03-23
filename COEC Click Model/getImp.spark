@@ -1,0 +1,7 @@
+./spark-shell --driver-memory 2g --packages com.databricks:spark-csv_2.10:1.0.3
+val ds=sc.textFile("/home/deepak/Documents/Projects/QUL Labeling Model/COEC/tmp");
+val pairs=ds.map(x => (x.split(',')(0).concat(",").concat(x.split(',')(1)),x.split(',')(2)))
+val pairs1=pairs.flatMapValues(x => x.split('|'))
+val pairs1=pairs.flatMapValues(x=>addInt(1,x))
+pairs1.saveAsTextFile("/home/deepak/Documents/Projects/QUL Labeling Model/COEC/redsaree_imp")
+

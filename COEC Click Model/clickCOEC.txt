@@ -1,0 +1,78 @@
+#http://dmtolpeko.com/2015/02/12/multi-column-key-and-value-reduce-a-tuple-in-spark/
+
+import org.apache.spark.sql.SQLContext
+val sqlContext = new SQLContext(sc);
+
+#read file as text and remove erraneous lines using regexp
+val ds=sc.textFile("/home/deepak/Documents/Projects/Analytics/Input/ds.csv");
+val pattern1="^\".+?\\d$".r
+val pattern=".*[0|1|2|3|4|5|6|7|9|8],[0|1|2|3|4|5|6|7|8]\\Z".r
+val ds1=ds.filter(x => !pattern.pattern.matcher(x).matches).filter(x => pattern1.pattern.matcher(x).matches);
+ds1.saveAsTextFile("/media/deepak/TOSHIBA EXT/Data");
+
+#read line and parse the query using csv reader, write the interpreted query,imp combination to file
+val df = sqlContext.read.format("com.databricks.spark.csv").option("header", "false") .option("inferSchema", "true").load("/media/deepak/TOSHIBA EXT/Data/part*");
+val dt=df.toDF("date","query","imp","ord");
+dt.registerTempTable("dt");
+var ds=sqlContext.sql("select query,imp from dt");
+ds.write.format("com.databricks.spark.csv").option("header", "true").save("/media/deepak/TOSHIBA EXT/Data/Clean");
+
+#corelogic to spit out query, group_concat(imp) for each query
+val rdd=sc.textFile("/media/deepak/TOSHIBA EXT/Data/Clean/part*");
+val pairs=rdd.map(x => (x.split(',')(0),x.split(',')(1))).reduceByKey((x,y) => x.concat("|").concat(y));
+pairs.saveAsTextFile("/media/deepak/TOSHIBA EXT/Data/Clean/Final")
+	
+-------------
+bzcat server.log.2016-02-08.bz2 B/server.log.2016-02-08.bz2 | grep 'SEARCH_IMP' | awk -F"," '{print $6","$8","$7}' | sed -e 's/, /,/g' > query_imp_pos.csv
+ sed -i '/,$/d' query_imp_pos.csv
+=============================================
+./spark-shell --driver-memory 2g --packages com.databricks:spark-csv_2.10:1.0.3
+==============================================
+
+val ds=sc.textFile("/home/deepak/Documents/Projects/QUL Labeling Model/COEC/query_imp_pos.csv");
+val pairs=ds.map(x => (x.split(',')(0).concat(",").concat(x.split(',')(1)),x.split(',')(2)))
+val pairs1=pairs.flatMapValues(x => x.split('|'))
+val pairs1=pairs.flatMapValues(x=>addInt(1,x))
+pairs1.saveAsTextFile("/home/deepak/Documents/Projects/QUL Labeling Model/COEC/out")
+pairs1.saveAsTextFile("/media/deepak/TOSHIBA EXT/out")
+
+val s1=sc.textFile("/media/deepak/TOSHIBA EXT/out");
+val s2=s1.map(x => (x.split(',')()))
+val s2=s1.map(x => (x.split(',')(1).toInt + x.split(',')(3).replace(')',' ').trim.toInt,1)).reduceByKey((x,y) => x+y).sortByKey();
+s2.saveAsTextFile("/media/deepak/TOSHIBA EXT/out1")
+
+
+def addInt(a:Int, b:String ) : Array[String] = {
+    
+    var x=b.split('|')
+    var z:Array[String] = new Array[String](x.length)
+    for ( i <- 0 to (x.length-1) )    {
+ 	    z(i)=x(i).toString.concat(",").concat(i.toString)
+    }
+    return z
+}
+
+
+q,pos,pog,offset
+
+
+for clicks
+==========
+val ds1=sc.textFile("/home/deepak/Documents/Projects/QUL Labeling Model/COEC/pos_query_click.csv");
+val ds2=ds1.map(x => (x.split(',')(2).toInt,1)).reduceByKey((x,y) => x+y).sortByKey()
+ds2.saveAsTextFile("/home/deepak/Documents/Projects/QUL Labeling Model/COEC/clk")
+cat clk/part* | sed -e 's/(//g' | sed -e 's/)//g' > pos_click.csv
+
+cat out/part* | grep '( micromax mobile,' | sed -e 's/(//g' | sed -e 's/)//g' > micromax_mobile.csv
+
+id,noOfRatings,avgRating,pogQualityScore,Price,discount,
+
+
+http://30.0.224.164:8080/solr/pog/customSelect?q=*%3A*&fq=id%3A654209948372+or+id%3A649086855975&fl=id%2CnoOfRatings%2CavgRating%2CpogQualityScore%2CPrice%2Cdiscount&wt=csv&indent=true
+
+
+bzcat server.log.* B/server.* | grep ' red saree,' | grep ' SEARCH_CLICK,' | wc -l
+===============================
+bzcat server.log.*  B/server.* | grep ' red saree,' | grep ' SEARCH_IMP,' | awk -F"," '{print $6","$8","$7}' | sed -e 's/, /,/g' > tmp
+
+http://30.0.224.164:8080/solr/pog/customSelect?q=*%3A*&fq=id:258027 or id:258037 or id:258041 or id:258042 or id:258043 or id:258044 or id:258045 or id:258047 or id:258048 or id:527487 or id:527510 or id:527536 or id:10034015 or id:66731260 or id:114103607 or id:132275939 or id:200578047 or id:293900381 or id:294426494 or id:331072671 or id:467252927 or id:702693557 or id:767899826 or id:837437579 or id:871209894 or id:938553192 or id:1016201481 or id:1085321057 or id:1238076258 or id:1267074220 or id:1270067915 or id:1319874719 or id:1491649550 or id:1521582197 or id:1536005623 or id:1541494594 or id:1627283659 or id:1636237062 or id:1720554732 or id:1906854005 or id:1972727821 or id:2059686333 or id:2091066165 or id:620558610052 or id:620632411080 or id:621199688615 or id:621852836284 or id:622297626973 or id:622539568091 or id:622615573814 or id:624196051242 or id:628463716224 or id:628747908706 or id:629054162179 or id:630136454980 or id:630362430125 or id:631007705825 or id:631186090232 or id:632183395546 or id:632722549785 or id:636927715954 or id:637458323800 or id:641007850442 or id:642383215795 or id:644137918497 or id:648853369298 or id:649020308533 or id:649577394948 or id:651250409735 or id:651581459017 or id:652867046973 or id:652873750454 or id:652905276255 or id:654080524299 or id:654122355084 or id:654219764466 or id:654306209194 or id:656614697160 or id:658833859039 or id:659120755389 or id:660247735537 or id:663046978940 or id:666135336200 or id:666203977742 or id:666677013177 or id:668292301009 or id:668698203020 or id:668903258052 or id:669815676819 or id:670270822076 or id:670630498360 or id:672116239640 or id:673756170691 or id:673853211572 or id:680137207270 or id:680680023751 or id:681491544711 or id:684224046264 or id:685198724675 or id:685499428755 or id:686837089019&fl=id%2CnoOfRatings%2CavgRating%2CpogQualityScore%2CPrice%2Cdiscount%2C&wt=json&indent=true
