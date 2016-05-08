@@ -1,0 +1,19 @@
+99 qid:1 #5.1
+1 qid:1 1:1 #home 
+1 qid:1 7:home #theatre 
+2 qid:1 4:1 7:theatre #JBL
+99 qid:2 #1.5 
+4 qid:2 1:1 7:1.5 #ton 
+99 qid:2 #5star 
+1 qid:2 #split 
+1 qid:2 #ac
+2 qid:3 5:1 #kingston 
+99 qid:3 3:1 #Data 
+99 qid:3 #traveler 
+99 qid:3 #Micro 
+99 qid:3 #3.1
+1 qid:4 #tupperware 
+99 qid:4 #2.3 
+4 qid:4 1:1 #liter
+2 qid:5 4:1 #JBL
+1 qid:5 #shoes

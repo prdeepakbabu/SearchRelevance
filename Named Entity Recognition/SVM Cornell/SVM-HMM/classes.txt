@@ -1,0 +1,37 @@
+class
+=========
+0 none
+5 quantity
+4 metric
+2 brand
+3 color
+1 category
+6 year
+7 audience
+8 currency
+9 price
+10 Author
+11 Occasion (wedding/birthday/anniversary)
+
+features
+========
+1 prev_d.d (1/0)
+2 current_d.d (1/0)
+3 prev_label_brand (1/0) cant use
+4 is_jbl
+5 is_kingston
+6 before_has_for
+under
+below
+7 
+8 
+9
+10
+
+
+
+/home/deepak/Downloads/svm_hmm_learn -c 5 -e 1 train.txt modelfile.dat 
+./svm_hmm_classify test.txt modelfile.dat classify.tags
+
+tuning
+/home/deepak/Downloads/svm_hmm_learn -c 10 -e 0.1 train.txt modelfile.dat

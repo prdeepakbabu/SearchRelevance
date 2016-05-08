@@ -1,0 +1,2675 @@
+2 qid:0 51:1 1764:1 #rado
+1 qid:0 633:1 1596:1 #watch
+7 qid:0 #men
+2 qid:1 82:1 2095:1 #htc
+2 qid:1 947:1 1632:1 #one
+99 qid:1 550:1 2991:1 #me
+2 qid:1 87:1 2805:1 #dual
+2 qid:1 1446:1 1627:1 #sim
+1 qid:1 #phone
+2 qid:2 21:1 2769:1 #bajaj
+1 qid:2 865:1 1566:1 #motor
+1 qid:2 #bike
+2 qid:3 996:1 2068:1 #micromax
+2 qid:3 3:1 6:1 1065:1 2322:1 #canvas
+99 qid:3 1:1 4:1 523:1 2541:1 #5
+1 qid:3 2:1 5:1 #cover
+2 qid:4 1079:1 2152:1 #wrangler
+3 qid:4 1296:1 2624:1 #black
+1 qid:4 #shirt
+2 qid:5 996:1 2965:1 #swift
+2 qid:5 1417:1 2000:1 #dzire
+1 qid:5 1420:1 2541:1 #car
+1 qid:5 #cover
+2 qid:6 447:1 1681:1 #power
+1 qid:6 737:1 1875:1 #bank
+99 qid:6 136:1 1992:1 #for
+2 qid:6 #iphone
+2 qid:7 996:1 1826:1 #maruti
+99 qid:7 1:1 4:1 1408:1 2000:1 #800
+1 qid:7 2:1 5:1 281:1 2541:1 #car
+1 qid:7 #cover
+2 qid:8 593:1 2760:1 #sandisk
+99 qid:8 1:1 4:1 55:1 2725:1 #32
+4 qid:8 2:1 5:1 1215:1 2976:1 #gb
+2 qid:8 1180:1 2669:1 #otg
+2 qid:8 1431:1 2138:1 #pen
+2 qid:8 #drive
+2 qid:9 1554:1 1681:1 #power
+1 qid:9 3:1 6:1 737:1 2210:1 #bank
+99 qid:9 1:1 4:1 136:1 2037:1 #30000
+4 qid:9 2:1 5:1 665:1 3099:1 #mah
+2 qid:9 #samsung
+7 qid:10 484:1 1722:1 #baby
+1 qid:10 6:1 1233:1 2772:1 #gym
+99 qid:10 4:1 177:1 2029:1 #&
+2 qid:10 5:1 #mat
+3 qid:11 322:1 2091:1 #white
+2 qid:11 557:1 1867:1 #pelican
+1 qid:11 #jean
+7 qid:12 604:1 2066:1 #kid
+7 qid:12 293:1 2149:1 #girl
+1 qid:12 #shoe
+2 qid:13 1452:1 1845:1 #mini
+1 qid:13 190:1 3071:1 #laptop
+4 qid:13 3:1 6:1 300:1 2110:1 #hp
+99 qid:13 1:1 4:1 1526:1 2997:1 #11
+4 qid:13 2:1 5:1 #inch
+2 qid:14 556:1 2068:1 #micromax
+2 qid:14 1065:1 2460:1 #canvas
+2 qid:14 3:1 6:1 523:1 2101:1 #knight
+99 qid:14 1:1 4:1 #2
+1 qid:15 1267:1 2750:1 #laptop
+2 qid:15 300:1 2812:1 #led
+1 qid:15 #light
+2 qid:16 266:1 3017:1 #the
+2 qid:16 297:1 2291:1 #kiss
+99 qid:16 1472:1 1811:1 #of
+2 qid:16 #life
+2 qid:17 314:1 1817:1 #bajaj
+2 qid:17 865:1 1859:1 #air
+1 qid:17 #cooler
+2 qid:18 686:1 1582:1 #bajaj
+2 qid:18 865:1 2231:1 #almond
+1 qid:18 #oil
+2 qid:19 1451:1 2850:1 #jbl
+2 qid:19 1092:1 2996:1 #bluetooth
+1 qid:19 #speaker
+2 qid:20 82:1 1817:1 #samsung
+2 qid:20 1554:1 1627:1 #air
+1 qid:20 #phone
+2 qid:21 1410:1 2101:1 #mrf
+99 qid:21 1:1 4:1 598:1 2605:1 #2
+2 qid:21 2:1 5:1 556:1 2955:1 #wheeler
+1 qid:21 #tyre
+2 qid:22 477:1 1817:1 #nike
+2 qid:22 283:1 2031:1 #air
+2 qid:22 3:1 6:1 272:1 2022:1 #max
+99 qid:22 1:1 4:1 #1
+2 qid:23 1287:1 2414:1 #patiyala
+1 qid:23 240:1 2832:1 #dress
+1 qid:23 #material
+3 qid:24 996:1 3080:1 #black
+2 qid:24 607:1 2541:1 #flip
+1 qid:24 #cover
+2 qid:25 51:1 2003:1 #puma
+1 qid:25 632:1 1875:1 #wallet
+99 qid:25 458:1 1596:1 #for
+7 qid:25 #men
+2 qid:26 347:1 2823:1 #samsung
+2 qid:26 1554:1 1587:1 #galaxy
+2 qid:26 1278:1 1892:1 #neo
+2 qid:26 #plus
+2 qid:27 691:1 3070:1 #sony
+2 qid:27 816:1 2236:1 #xperia
+1 qid:27 #charger
+2 qid:28 724:1 2342:1 #adidas
+99 qid:28 842:1 2102:1 #original
+3 qid:28 797:1 1596:1 #white
+7 qid:28 557:1 2269:1 #men
+1 qid:28 #sneaker
+2 qid:29 791:1 2359:1 #luminous
+1 qid:29 1405:1 2336:1 #fan
+1 qid:29 #remote
+2 qid:30 996:1 2798:1 #lenovo
+2 qid:30 6:1 12:1 183:1 2528:1 #vibe
+99 qid:30 4:1 10:1 1253:1 1892:1 #k5
+2 qid:30 5:1 11:1 983:1 2541:1 #plus
+1 qid:30 #cover
+7 qid:31 400:1 1605:1 #kid
+99 qid:31 293:1 2969:1 #study
+1 qid:31 60:1 2119:1 #table
+2 qid:31 1424:1 1945:1 #and
+1 qid:31 #chair
+2 qid:32 996:1 2000:1 #alto
+1 qid:32 432:1 2541:1 #car
+1 qid:32 #cover
+2 qid:33 1373:1 2218:1 #auto
+2 qid:33 1286:1 2606:1 #ignition
+2 qid:33 673:1 2918:1 #gas
+99 qid:33 #stove
+2 qid:34 1451:1 2996:1 #bluetooth
+1 qid:34 1305:1 1619:1 #speaker
+99 qid:34 1451:1 2123:1 #music
+2 qid:34 74:1 2996:1 #angel
+1 qid:34 #speaker
+2 qid:35 694:1 1976:1 #princeware
+2 qid:35 1361:1 2239:1 #water
+1 qid:35 #bottle
+2 qid:36 51:1 2641:1 #reebok
+2 qid:36 672:1 1875:1 #sandal
+99 qid:36 1096:1 1596:1 #for
+7 qid:36 #men
+2 qid:37 137:1 3053:1 #lava
+2 qid:37 683:1 1966:1 #iris
+2 qid:37 6:1 1508:1 1682:1 #alfa
+4 qid:37 4:1 #l
+2 qid:38 1355:1 3060:1 #bluetooth
+1 qid:38 1305:1 2306:1 #headphone
+99 qid:38 1515:1 2900:1 #with
+2 qid:38 #mic
+1 qid:39 1299:1 2564:1 #car
+1 qid:39 455:1 2844:1 #perfume
+2 qid:39 #godrej
+2 qid:40 228:1 1845:1 #dell
+1 qid:40 26:1 1773:1 #laptop
+1 qid:40 #bag
+2 qid:41 1434:1 2750:1 #bajaj
+2 qid:41 865:1 2979:1 #led
+1 qid:41 #bulb
+2 qid:42 1058:1 1734:1 #bajaj
+2 qid:42 865:1 2603:1 #iron
+1 qid:42 #box
+2 qid:43 51:1 2149:1 #adidas
+1 qid:43 842:1 1596:1 #shoe
+7 qid:43 #men
+99 qid:44 1:1 4:1 75:1 2725:1 #32
+4 qid:44 2:1 5:1 1215:1 1993:1 #gb
+1 qid:44 1180:1 1620:1 #memory
+1 qid:44 #card
+2 qid:45 219:1 1678:1 #smart
+2 qid:45 1488:1 1764:1 #band
+1 qid:45 #watch
+2 qid:46 82:1 1764:1 #smart
+1 qid:46 1488:1 2119:1 #watch
+2 qid:46 219:1 3033:1 #and
+2 qid:46 574:1 1627:1 #smart
+1 qid:46 #phone
+2 qid:47 75:1 2530:1 #google
+2 qid:47 1110:1 1620:1 #play
+1 qid:47 #card
+2 qid:48 1451:1 2850:1 #zoook
+2 qid:48 227:1 2996:1 #bluetooth
+1 qid:48 #speaker
+2 qid:49 521:1 2149:1 #canvas
+1 qid:49 523:1 1875:1 #shoe
+99 qid:49 604:1 2066:1 #for
+7 qid:49 #girl
+2 qid:50 392:1 2781:1 #lenovo
+99 qid:50 4:1 10:1 183:1 2697:1 #a6000
+2 qid:50 5:1 11:1 1236:1 1937:1 #tempered
+2 qid:50 #glass
+2 qid:51 219:1 2066:1 #barbie
+7 qid:51 425:1 1764:1 #girl
+1 qid:51 #watch
+2 qid:52 82:1 1986:1 #oppo
+99 qid:52 4:1 10:1 941:1 1892:1 #f1
+2 qid:52 5:1 11:1 441:1 1627:1 #plus
+1 qid:52 #phone
+1 qid:53 715:1 2576:1 #book
+1 qid:53 1550:1 2260:1 #case
+1 qid:53 #furniture
+2 qid:54 1287:1 2414:1 #vaamsi
+1 qid:54 1145:1 2832:1 #dress
+1 qid:54 #material
+2 qid:55 1079:1 1867:1 #pepe
+1 qid:55 884:1 2624:1 #jean
+1 qid:55 #shirt
+2 qid:56 41:1 2624:1 #denim
+1 qid:56 1422:1 1586:1 #shirt
+3 qid:56 #blue
+2 qid:57 1417:1 2670:1 #intex
+2 qid:57 720:1 2962:1 #cloud
+2 qid:57 #swift
+2 qid:58 219:1 1607:1 #sonata
+3 qid:58 1292:1 1764:1 #golden
+1 qid:58 #watch
+99 qid:59 1:1 4:1 593:1 2725:1 #32
+4 qid:59 2:1 5:1 1215:1 2833:1 #gb
+2 qid:59 1180:1 2669:1 #toshiba
+2 qid:59 1288:1 2138:1 #pen
+2 qid:59 #drive
+2 qid:60 996:1 1960:1 #panasonic
+99 qid:60 109:1 2206:1 #eluga
+2 qid:60 415:1 3080:1 #mark
+2 qid:60 661:1 2541:1 #flip
+1 qid:60 #cover
+7 qid:61 869:1 1978:1 #kid
+7 qid:61 293:1 2414:1 #boy
+1 qid:61 #dress
+2 qid:62 102:1 2540:1 #china
+99 qid:62 53:1 1627:1 #mobile
+1 qid:62 995:1 1647:1 #phone
+2 qid:62 #india
+2 qid:63 1207:1 2119:1 #art
+2 qid:63 1328:1 1813:1 #and
+2 qid:63 574:1 2431:1 #craft
+2 qid:63 268:1 2752:1 #paper
+2 qid:63 #punch
+7 qid:64 433:1 2149:1 #kid
+1 qid:64 293:1 1875:1 #shoe
+99 qid:64 604:1 1978:1 #for
+7 qid:64 #boy
+2 qid:65 51:1 2641:1 #lancer
+2 qid:65 1325:1 1596:1 #sandal
+7 qid:65 #men
+2 qid:66 932:1 1663:1 #carlton
+2 qid:66 1138:1 2477:1 #london
+1 qid:66 #loafer
+2 qid:67 82:1 3033:1 #oppo
+2 qid:67 941:1 1627:1 #smart
+1 qid:67 #phone
+2 qid:68 1096:1 2360:1 #bata
+1 qid:68 351:1 2641:1 #floater
+2 qid:68 #sandal
+2 qid:69 224:1 1819:1 #new
+2 qid:69 46:1 3068:1 #balance
+99 qid:69 274:1 1769:1 #cricket
+2 qid:69 #bat
+2 qid:70 352:1 3053:1 #lava
+2 qid:70 6:1 12:1 683:1 2106:1 #iris
+99 qid:70 4:1 10:1 1508:1 1897:1 #x1
+2 qid:70 5:1 11:1 #selfie
+2 qid:71 987:1 2850:1 #samsung
+2 qid:71 1554:1 2532:1 #bluetooth
+1 qid:71 #headset
+7 qid:72 694:1 1976:1 #kid
+2 qid:72 293:1 2239:1 #water
+1 qid:72 #bottle
+2 qid:73 1434:1 2750:1 #eveready
+2 qid:73 1551:1 2979:1 #led
+1 qid:73 #bulb
+7 qid:74 1144:1 2489:1 #lady
+2 qid:74 713:1 2689:1 #fancy
+1 qid:74 #suit
+2 qid:75 994:1 1929:1 #surf
+2 qid:75 3:1 6:1 1475:1 2602:1 #excel
+99 qid:75 1:1 4:1 384:1 2539:1 #4
+4 qid:75 2:1 5:1 #kg
+2 qid:76 1027:1 1700:1 #oppo
+2 qid:76 941:1 2572:1 #selfi
+2 qid:76 #expert
+2 qid:77 604:1 2152:1 #oricum
+3 qid:77 3:1 6:1 134:1 1618:1 #black
+99 qid:77 1:1 4:1 607:1 2068:1 #347
+2 qid:77 2:1 5:1 73:1 2149:1 #canvas
+1 qid:77 #shoe
+2 qid:78 477:1 2068:1 #micromax
+2 qid:78 1065:1 2189:1 #canvas
+2 qid:78 3:1 6:1 523:1 2022:1 #spark
+99 qid:78 1:1 4:1 #1
+2 qid:79 996:1 2823:1 #samsung
+2 qid:79 1554:1 2127:1 #galaxy
+2 qid:79 3:1 6:1 1278:1 2151:1 #note
+99 qid:79 1:1 4:1 582:1 3080:1 #3
+2 qid:79 2:1 5:1 606:1 2541:1 #flip
+1 qid:79 #cover
+2 qid:80 1283:1 2823:1 #samsung
+2 qid:80 6:1 12:1 1554:1 2330:1 #galaxy
+99 qid:80 3:1 4:1 6:1 10:1 1278:1 2828:1 #a5
+6 qid:80 1:1 4:1 5:1 11:1 #2016
+2 qid:81 51:1 1937:1 #sun
+2 qid:81 835:1 1596:1 #glass
+7 qid:81 #men
+2 qid:82 996:1 1639:1 #xolo
+2 qid:82 6:1 9:1 882:1 3101:1 #era
+99 qid:82 4:1 7:1 94:1 3080:1 #4k
+2 qid:82 5:1 8:1 1556:1 2541:1 #flip
+1 qid:82 #cover
+2 qid:83 604:1 2477:1 #puma
+1 qid:83 632:1 2149:1 #loafer
+1 qid:83 #shoe
+2 qid:84 394:1 2258:1 #fancy
+7 qid:84 944:1 1939:1 #lady
+1 qid:84 #gown
+2 qid:85 1354:1 2068:1 #micromax
+2 qid:85 1065:1 2793:1 #canvas
+2 qid:85 6:1 12:1 523:1 2899:1 #tab
+99 qid:85 4:1 10:1 #p290
+2 qid:86 1410:1 2000:1 #swift
+1 qid:86 1417:1 2955:1 #car
+1 qid:86 #tyre
+2 qid:87 1096:1 2360:1 #lancer
+1 qid:87 1325:1 2641:1 #floater
+2 qid:87 #sandal
+2 qid:88 996:1 3031:1 #royal
+2 qid:88 305:1 1566:1 #enfield
+1 qid:88 1486:1 2541:1 #bike
+1 qid:88 #cover
+2 qid:89 691:1 2540:1 #solar
+99 qid:89 370:1 1627:1 #mobile
+1 qid:89 995:1 2236:1 #phone
+1 qid:89 #charger
+7 qid:90 293:1 2552:1 #kid
+2 qid:90 293:1 1875:1 #scooter
+99 qid:90 1007:1 1838:1 #for
+7 qid:90 #kid
+2 qid:91 604:1 2269:1 #lotto
+1 qid:91 732:1 2376:1 #sneaker
+99 qid:91 724:1 2149:1 #casual
+1 qid:91 #shoe
+2 qid:92 219:1 2308:1 #titan
+2 qid:92 728:1 2354:1 #raga
+99 qid:92 763:1 2258:1 #woman
+7 qid:92 809:1 1764:1 #lady
+1 qid:92 #watch
+2 qid:93 1305:1 2996:1 #mini
+1 qid:93 190:1 2850:1 #speaker
+2 qid:93 #bluetooth
+2 qid:94 996:1 1639:1 #xolo
+2 qid:94 6:1 9:1 882:1 3102:1 #era
+99 qid:94 4:1 7:1 94:1 2541:1 #4g
+1 qid:94 5:1 8:1 #cover
+1 qid:95 96:1 1620:1 #memory
+1 qid:95 448:1 3099:1 #card
+2 qid:95 9:1 75:1 1641:1 #samsung
+99 qid:95 7:1 #16gb
+2 qid:96 814:1 2316:1 #cinni
+99 qid:96 462:1 2359:1 #pedestal
+1 qid:96 771:1 2359:1 #fan
+1 qid:96 #fan
+2 qid:97 433:1 1764:1 #smart
+1 qid:97 1488:1 1875:1 #watch
+99 qid:97 219:1 1978:1 #for
+7 qid:97 #boy
+99 qid:98 313:1 2490:1 #girlfriend
+2 qid:98 769:1 2840:1 #valentine
+2 qid:98 945:1 1985:1 #day
+2 qid:98 1295:1 1858:1 #love
+1 qid:98 #gift
+2 qid:99 1172:1 2778:1 #panda
+7 qid:99 40:1 2717:1 #baby
+2 qid:99 #walker
+2 qid:100 639:1 2547:1 #pure
+3 qid:100 479:1 2184:1 #gold
+2 qid:100 #jwellery
+2 qid:101 604:1 3054:1 #nike
+2 qid:101 283:1 2376:1 #lifestyle
+99 qid:101 1509:1 2149:1 #casual
+1 qid:101 #shoe
+2 qid:102 82:1 2068:1 #micromax
+2 qid:102 1065:1 1627:1 #canvas
+1 qid:102 #phone
+2 qid:103 219:1 2547:1 #rose
+3 qid:103 703:1 1764:1 #gold
+1 qid:103 #watch
+2 qid:104 1190:1 2964:1 #intex
+2 qid:104 720:1 2735:1 #aqua
+2 qid:104 #wave
+2 qid:105 996:1 2823:1 #samsung
+2 qid:105 1554:1 2627:1 #galaxy
+2 qid:105 1278:1 2031:1 #grand
+2 qid:105 9:1 1082:1 1641:1 #max
+99 qid:105 7:1 486:1 2540:1 #16gb
+99 qid:105 8:1 96:1 2541:1 #mobile
+1 qid:105 #cover
+2 qid:106 996:1 2823:1 #samsung
+2 qid:106 1554:1 2127:1 #galaxy
+2 qid:106 3:1 6:1 1278:1 2151:1 #note
+99 qid:106 1:1 4:1 582:1 1587:1 #3
+2 qid:106 2:1 5:1 606:1 2659:1 #neo
+99 qid:106 42:1 2541:1 #back
+1 qid:106 #cover
+2 qid:107 996:1 1738:1 #micromax
+2 qid:107 6:1 12:1 1065:1 2925:1 #nitro
+99 qid:107 4:1 10:1 193:1 3080:1 #a311
+2 qid:107 5:1 11:1 1380:1 2541:1 #flip
+1 qid:107 #cover
+2 qid:108 82:1 3033:1 #lenovo
+2 qid:108 183:1 1627:1 #smart
+1 qid:108 #phone
+2 qid:109 839:1 1976:1 #hot
+2 qid:109 108:1 2239:1 #water
+1 qid:109 431:1 2384:1 #bottle
+99 qid:109 #flask
+2 qid:110 1452:1 2823:1 #samsung
+2 qid:110 1554:1 2793:1 #galaxy
+2 qid:110 3:1 6:1 1278:1 2151:1 #tab
+99 qid:110 1:1 4:1 1248:1 2576:1 #3
+1 qid:110 2:1 3:1 5:1 6:1 606:1 2111:1 #case
+99 qid:110 1:1 4:1 1031:1 2997:1 #10
+4 qid:110 2:1 5:1 #inch
+2 qid:111 314:1 1817:1 #mini
+2 qid:111 190:1 1859:1 #air
+1 qid:111 #cooler
+7 qid:112 393:1 1867:1 #men
+1 qid:112 51:1 1938:1 #jean
+1 qid:112 #jacket
+2 qid:113 1144:1 3016:1 #patiyala
+1 qid:113 240:1 2689:1 #salwar
+1 qid:113 #suit
+1 qid:114 1096:1 1875:1 #footwear
+99 qid:114 541:1 2066:1 #for
+7 qid:114 330:1 2641:1 #girl
+2 qid:114 #sandal
+2 qid:115 996:1 2823:1 #samsung
+2 qid:115 1554:1 1886:1 #galaxy
+2 qid:115 3:1 6:1 1278:1 2101:1 #core
+99 qid:115 1:1 4:1 341:1 2540:1 #2
+99 qid:115 2:1 5:1 556:1 3080:1 #mobile
+2 qid:115 995:1 2541:1 #flip
+1 qid:115 #cover
+2 qid:116 1230:1 2008:1 #mini
+2 qid:116 190:1 2775:1 #spy
+1 qid:116 #camera
+2 qid:117 82:1 1779:1 #intex
+1 qid:117 720:1 1627:1 #keypad
+1 qid:117 #phone
+1 qid:118 686:1 2209:1 #car
+2 qid:118 455:1 2231:1 #engine
+1 qid:118 #oil
+2 qid:119 1554:1 1681:1 #power
+1 qid:119 737:1 3099:1 #bank
+2 qid:119 #samsung
+2 qid:120 314:1 1817:1 #mccoy
+2 qid:120 1257:1 1859:1 #air
+1 qid:120 272:1 1817:1 #cooler
+2 qid:120 314:1 1859:1 #air
+1 qid:120 #cooler
+2 qid:121 1316:1 1591:1 #avon
+2 qid:121 1416:1 2861:1 #new
+2 qid:121 #york
+2 qid:122 996:1 2964:1 #intex
+2 qid:122 720:1 2282:1 #aqua
+2 qid:122 1419:1 1892:1 #power
+2 qid:122 737:1 2659:1 #plus
+99 qid:122 347:1 2541:1 #back
+1 qid:122 #cover
+2 qid:123 21:1 1968:1 #bajaj
+2 qid:123 9:1 865:1 1727:1 #discover
+99 qid:123 7:1 423:1 1566:1 #125st
+1 qid:123 8:1 #bike
+2 qid:124 604:1 1954:1 #trilokani
+3 qid:124 333:1 2376:1 #brown
+99 qid:124 409:1 2149:1 #casual
+1 qid:124 #shoe
+2 qid:125 486:1 1603:1 #stayfree
+2 qid:125 1482:1 2031:1 #dry
+2 qid:125 #max
+2 qid:126 219:1 1596:1 #fastrack
+7 qid:126 1440:1 1764:1 #men
+1 qid:126 #watch
+2 qid:127 1079:1 2901:1 #allen
+2 qid:127 6:1 580:1 2671:1 #solly
+99 qid:127 4:1 1356:1 2624:1 #t
+1 qid:127 5:1 #shirt
+2 qid:128 691:1 2000:1 #samsung
+1 qid:128 1554:1 2236:1 #car
+1 qid:128 #charger
+2 qid:129 604:1 2488:1 #lee
+2 qid:129 1206:1 2149:1 #copper
+1 qid:129 #shoe
+2 qid:130 996:1 2912:1 #blackberry
+99 qid:130 4:1 10:1 721:1 3080:1 #z30
+2 qid:130 5:1 11:1 1367:1 2541:1 #flip
+1 qid:130 #cover
+2 qid:131 59:1 2282:1 #lenovo
+2 qid:131 183:1 1681:1 #power
+1 qid:131 9:1 737:1 1604:1 #bank
+99 qid:131 7:1 #10000mah
+2 qid:132 36:1 2180:1 #air
+2 qid:132 272:1 1581:1 #pump
+2 qid:132 #bicycle
+2 qid:133 996:1 2823:1 #samsung
+2 qid:133 6:1 12:1 1554:1 2169:1 #galaxy
+99 qid:133 4:1 10:1 1278:1 2541:1 #j5
+1 qid:133 5:1 11:1 #cover
+2 qid:134 814:1 2771:1 #water
+99 qid:134 431:1 2812:1 #usb
+1 qid:134 1226:1 2359:1 #light
+1 qid:134 #fan
+2 qid:135 996:1 1889:1 #micromax
+2 qid:135 6:1 12:1 1065:1 1631:1 #bolt
+99 qid:135 4:1 10:1 344:1 2541:1 #s300
+1 qid:135 5:1 11:1 #cover
+2 qid:136 1452:1 1845:1 #mini
+1 qid:136 3:1 6:1 190:1 2110:1 #laptop
+99 qid:136 1:1 4:1 300:1 2997:1 #11
+4 qid:136 2:1 5:1 #inch
+2 qid:137 1098:1 2068:1 #micromax
+2 qid:137 1065:1 2793:1 #canvas
+2 qid:137 6:1 12:1 523:1 2899:1 #tab
+99 qid:137 4:1 10:1 1248:1 2643:1 #p290
+1 qid:137 5:1 11:1 #tablet
+2 qid:138 643:1 2282:1 #samsung
+2 qid:138 1554:1 1681:1 #power
+1 qid:138 3:1 6:1 737:1 2188:1 #bank
+99 qid:138 1:1 4:1 #9000
+2 qid:139 51:1 2149:1 #woodland
+1 qid:139 682:1 1875:1 #shoe
+99 qid:139 604:1 1596:1 #for
+7 qid:139 #men
+2 qid:140 58:1 2603:1 #iron
+1 qid:140 189:1 1603:1 #box
+2 qid:140 #dry
+2 qid:141 996:1 2171:1 #samsung
+99 qid:141 4:1 10:1 1554:1 2290:1 #j1
+2 qid:141 5:1 11:1 626:1 2541:1 #ace
+1 qid:141 #cover
+7 qid:142 944:1 2491:1 #lady
+1 qid:142 713:1 2489:1 #slipper
+2 qid:142 #fancy
+2 qid:143 742:1 2905:1 #mini
+99 qid:143 190:1 1652:1 #sewing
+1 qid:143 1360:1 2287:1 #machine
+2 qid:143 #usha
+2 qid:144 36:1 1838:1 #firefox
+7 qid:144 1220:1 1581:1 #kid
+2 qid:144 #bicycle
+2 qid:145 420:1 2657:1 #adidas
+2 qid:145 842:1 1965:1 #spring
+2 qid:145 #blade
+2 qid:146 1557:1 2068:1 #micromax
+2 qid:146 1065:1 1584:1 #canvas
+2 qid:146 6:1 9:1 523:1 3102:1 #pulse
+99 qid:146 4:1 7:1 #4g
+2 qid:147 82:1 2798:1 #lenovo
+2 qid:147 183:1 2818:1 #vibe
+99 qid:147 1253:1 1627:1 #p1m
+1 qid:147 #phone
+2 qid:148 996:1 2278:1 #vivo
+99 qid:148 4:1 10:1 372:1 3080:1 #y28
+2 qid:148 5:1 11:1 733:1 2541:1 #flip
+1 qid:148 #cover
+2 qid:149 987:1 2850:1 #zoook
+2 qid:149 227:1 2532:1 #bluetooth
+1 qid:149 #headset
+2 qid:150 996:1 3070:1 #sony
+2 qid:150 6:1 12:1 816:1 2364:1 #xperia
+99 qid:150 4:1 10:1 1525:1 2988:1 #t2
+2 qid:150 5:1 11:1 819:1 2991:1 #ultra
+2 qid:150 1443:1 2483:1 #dual
+1 qid:150 1446:1 2541:1 #bumper
+1 qid:150 #cover
+2 qid:151 409:1 2594:1 #woodland
+1 qid:151 682:1 1954:1 #belt
+3 qid:151 #brown
+2 qid:152 1479:1 2068:1 #micromax
+2 qid:152 1065:1 2302:1 #canvas
+2 qid:152 6:1 12:1 523:1 3024:1 #turbo
+99 qid:152 4:1 10:1 #a250
+2 qid:153 75:1 2988:1 #sandisk
+2 qid:153 3:1 6:1 55:1 2200:1 #ultra
+99 qid:153 1:1 4:1 1443:1 2725:1 #64
+4 qid:153 2:1 5:1 655:1 1993:1 #gb
+1 qid:153 1180:1 1620:1 #memory
+1 qid:153 #card
+2 qid:154 607:1 2225:1 #vega
+1 qid:154 459:1 2152:1 #helmet
+3 qid:154 #black
+2 qid:155 447:1 1921:1 #otg
+1 qid:155 1431:1 1875:1 #pendrive
+99 qid:155 376:1 1992:1 #for
+2 qid:155 #iphone
+2 qid:156 995:1 2935:1 #micromax
+2 qid:156 1065:1 1892:1 #yureka
+2 qid:156 1390:1 2540:1 #plus
+99 qid:156 #mobile
+2 qid:157 347:1 1857:1 #htc
+2 qid:157 6:1 9:1 947:1 3089:1 #desire
+99 qid:157 4:1 7:1 312:1 1892:1 #820g
+2 qid:157 5:1 8:1 #plus
+1 qid:158 367:1 2119:1 #keyboard
+2 qid:158 119:1 1825:1 #and
+1 qid:158 574:1 1912:1 #mouse
+99 qid:158 #wireless
+2 qid:159 1451:1 2996:1 #bluetooth
+1 qid:159 1305:1 1927:1 #speaker
+2 qid:159 1451:1 2996:1 #skullcandy
+1 qid:159 #speaker
+2 qid:160 1046:1 2964:1 #intex
+2 qid:160 6:1 12:1 720:1 2435:1 #aqua
+99 qid:160 4:1 10:1 1419:1 2591:1 #y2
+1 qid:160 5:1 11:1 #battery
+2 qid:161 680:1 2494:1 #vega
+2 qid:161 459:1 2225:1 #jet
+1 qid:161 #helmet
+2 qid:162 136:1 2282:1 #erd
+2 qid:162 93:1 1681:1 #power
+1 qid:162 #bank
+2 qid:163 876:1 2195:1 #maybelline
+2 qid:163 154:1 2421:1 #color
+2 qid:163 #bloom
+2 qid:164 51:1 2941:1 #nike
+2 qid:164 283:1 2149:1 #airmax
+1 qid:164 1396:1 1875:1 #shoe
+99 qid:164 604:1 1596:1 #for
+7 qid:164 #men
+2 qid:165 911:1 1596:1 #nivea
+7 qid:165 988:1 2914:1 #men
+99 qid:165 51:1 2456:1 #face
+1 qid:165 #wash
+2 qid:166 1046:1 1845:1 #dell
+1 qid:166 26:1 2591:1 #laptop
+1 qid:166 #battery
+2 qid:167 694:1 1976:1 #quechua
+2 qid:167 888:1 2239:1 #water
+1 qid:167 #bottle
+99 qid:168 169:1 1714:1 #crop
+2 qid:168 1197:1 2119:1 #top
+2 qid:168 169:1 1714:1 #and
+2 qid:168 #top
+2 qid:169 699:1 2149:1 #woodland
+1 qid:169 682:1 2244:1 #shoe
+2 qid:169 #polish
+1 qid:170 635:1 2955:1 #car
+1 qid:170 455:1 1817:1 #tyre
+2 qid:170 1410:1 2180:1 #air
+2 qid:170 #pump
+2 qid:171 492:1 1681:1 #power
+1 qid:171 3:1 6:1 737:1 2406:1 #bank
+99 qid:171 1:1 4:1 136:1 2037:1 #20000
+4 qid:171 2:1 5:1 #mah
+2 qid:172 996:1 3050:1 #infocus
+99 qid:172 4:1 10:1 1466:1 3080:1 #m810
+2 qid:172 5:1 11:1 1505:1 2541:1 #flip
+1 qid:172 #cover
+2 qid:173 996:1 3070:1 #sony
+2 qid:173 6:1 12:1 816:1 1616:1 #xperia
+99 qid:173 4:1 10:1 1525:1 2964:1 #m4
+2 qid:173 5:1 11:1 71:1 2991:1 #aqua
+2 qid:173 1419:1 3080:1 #dual
+2 qid:173 1446:1 2541:1 #flip
+1 qid:173 #cover
+1 qid:174 433:1 2149:1 #loafer
+1 qid:174 932:1 1875:1 #shoe
+99 qid:174 604:1 1978:1 #for
+7 qid:174 #boy
+2 qid:175 347:1 2068:1 #micromax
+2 qid:175 1065:1 2189:1 #canvas
+2 qid:175 523:1 1892:1 #spark
+2 qid:175 #plus
+2 qid:176 843:1 2964:1 #intex
+2 qid:176 720:1 2388:1 #aqua
+2 qid:176 #young
+2 qid:177 136:1 2282:1 #best
+2 qid:177 236:1 1681:1 #power
+1 qid:177 #bank
+2 qid:178 190:1 1761:1 #apple
+2 qid:178 1221:1 1735:1 #ipad
+2 qid:178 #mini
+1 qid:179 713:1 2770:1 #jacket
+1 qid:179 393:1 1875:1 #kurta
+99 qid:179 1225:1 2258:1 #for
+7 qid:179 #lady
+2 qid:180 579:1 2964:1 #intex
+2 qid:180 720:1 2438:1 #aqua
+2 qid:180 1419:1 2124:1 #style
+2 qid:180 #pro
+1 qid:181 283:1 2855:1 #football
+2 qid:181 388:1 1828:1 #stud
+2 qid:181 #nike
+2 qid:182 1023:1 2400:1 #american
+2 qid:182 936:1 1606:1 #diamond
+1 qid:182 855:1 2568:1 #pendant
+99 qid:182 #set
+2 qid:183 280:1 1912:1 #logitech
+99 qid:183 1363:1 1664:1 #wireless
+1 qid:183 367:1 2119:1 #keyboard
+2 qid:183 119:1 1825:1 #and
+1 qid:183 #mouse
+2 qid:184 314:1 2846:1 #symphony
+2 qid:184 359:1 2185:1 #kaizen
+99 qid:184 1301:1 1817:1 #jr
+2 qid:184 640:1 1859:1 #air
+1 qid:184 #cooler
+2 qid:185 314:1 1859:1 #air
+1 qid:185 272:1 1817:1 #cooler
+2 qid:185 314:1 1859:1 #air
+1 qid:185 #cooler
+4 qid:186 593:1 2116:1 #hp
+99 qid:186 1:1 4:1 1526:1 2725:1 #16
+4 qid:186 2:1 5:1 571:1 2669:1 #gb
+2 qid:186 1180:1 2138:1 #pen
+2 qid:186 #drive
+2 qid:187 722:1 1859:1 #air
+1 qid:187 272:1 2267:1 #cooler
+2 qid:187 #tower
+2 qid:188 1180:1 2068:1 #micromax
+2 qid:188 1065:1 2189:1 #canvas
+2 qid:188 3:1 6:1 523:1 2101:1 #spark
+99 qid:188 1:1 4:1 644:1 1892:1 #2
+2 qid:188 2:1 3:1 5:1 6:1 556:1 2555:1 #plus
+99 qid:188 1:1 4:1 347:1 2725:1 #8
+4 qid:188 2:1 5:1 #gb
+1 qid:189 51:1 2149:1 #gym
+1 qid:189 177:1 1875:1 #shoe
+99 qid:189 604:1 1596:1 #for
+7 qid:189 #men
+2 qid:190 1358:1 2288:1 #wild
+2 qid:190 1442:1 2903:1 #stone
+1 qid:190 #soap
+99 qid:191 1:1 4:1 593:1 2725:1 #2
+4 qid:191 2:1 5:1 556:1 2669:1 #gb
+2 qid:191 1180:1 2138:1 #pen
+2 qid:191 #drive
+2 qid:192 521:1 2271:1 #barbie
+2 qid:192 425:1 1875:1 #doll
+99 qid:192 726:1 2066:1 #for
+7 qid:192 #girl
+7 qid:193 167:1 2066:1 #baby
+7 qid:193 1233:1 1712:1 #girl
+2 qid:193 #toy
+2 qid:194 136:1 2282:1 #erd
+2 qid:194 93:1 1681:1 #power
+1 qid:194 #bank
+2 qid:195 82:1 2781:1 #lenovo
+99 qid:195 4:1 10:1 183:1 1892:1 #a6000
+2 qid:195 5:1 11:1 1236:1 1906:1 #plus
+2 qid:195 347:1 1627:1 #head
+1 qid:195 #phone
+2 qid:196 314:1 1859:1 #summer
+1 qid:196 696:1 1817:1 #cooler
+2 qid:196 314:1 1859:1 #air
+1 qid:196 #cooler
+2 qid:197 1260:1 1602:1 #nokia
+99 qid:197 1:1 4:1 1497:1 2991:1 #105
+2 qid:197 2:1 5:1 57:1 2805:1 #dual
+2 qid:197 #sim
+2 qid:198 818:1 2322:1 #iphone
+99 qid:198 1:1 4:1 447:1 2038:1 #5
+2 qid:198 2:1 5:1 777:1 2363:1 #data
+1 qid:198 #cable
+2 qid:199 996:1 3098:1 #samsung
+2 qid:199 1554:1 2124:1 #star
+2 qid:199 1553:1 2050:1 #pro
+2 qid:199 3:1 6:1 579:1 1614:1 #gts
+99 qid:199 1:1 4:1 505:1 2659:1 #7262
+99 qid:199 2:1 5:1 69:1 2541:1 #back
+1 qid:199 #cover
+2 qid:200 82:1 2068:1 #micromax
+2 qid:200 1065:1 2189:1 #canvas
+2 qid:200 6:1 12:1 523:1 1729:1 #spark
+99 qid:200 4:1 10:1 644:1 1627:1 #q380
+1 qid:200 5:1 11:1 #phone
+2 qid:201 314:1 2255:1 #symphony
+2 qid:201 359:1 2185:1 #sumo
+99 qid:201 710:1 1635:1 #jr
+1 qid:201 640:1 1817:1 #room
+2 qid:201 90:1 1859:1 #air
+1 qid:201 #cooler
+2 qid:202 815:1 2641:1 #sparx
+2 qid:202 638:1 2360:1 #sandal
+1 qid:202 #floater
+1 qid:203 1554:1 1764:1 #phone
+1 qid:203 82:1 3099:1 #watch
+2 qid:203 #samsung
+2 qid:204 1287:1 2414:1 #manthan
+1 qid:204 1303:1 2832:1 #dress
+1 qid:204 #material
+2 qid:205 1364:1 2258:1 #butterfly
+7 qid:205 586:1 2909:1 #lady
+1 qid:205 #handbag
+2 qid:206 1248:1 2319:1 #lenovo
+2 qid:206 183:1 2793:1 #yoga
+2 qid:206 #tab
+2 qid:207 1058:1 1985:1 #durex
+2 qid:207 1490:1 2603:1 #love
+1 qid:207 #box
+2 qid:208 1451:1 2850:1 #portronics
+2 qid:208 246:1 2996:1 #bluetooth
+1 qid:208 #speaker
+2 qid:209 82:1 2935:1 #micromax
+2 qid:209 1065:1 2540:1 #yureka
+99 qid:209 1390:1 1627:1 #mobile
+1 qid:209 #phone
+2 qid:210 604:1 1817:1 #nike
+2 qid:210 283:1 2031:1 #air
+2 qid:210 3:1 6:1 272:1 2977:1 #max
+6 qid:210 1:1 4:1 486:1 2175:1 #2015
+99 qid:210 2:1 5:1 1432:1 2149:1 #sport
+1 qid:210 #shoe
+2 qid:211 827:1 1647:1 #organic
+2 qid:211 84:1 2734:1 #india
+2 qid:211 102:1 1657:1 #tulsi
+3 qid:211 1189:1 2372:1 #green
+99 qid:211 #tea
+2 qid:212 607:1 2624:1 #denim
+1 qid:212 1422:1 1875:1 #shirt
+99 qid:212 1079:1 1596:1 #for
+7 qid:212 330:1 2152:1 #men
+3 qid:212 #black
+2 qid:213 604:1 2739:1 #nike
+99 qid:213 283:1 1933:1 #mercurial
+1 qid:213 1194:1 2149:1 #football
+1 qid:213 #shoe
+2 qid:214 792:1 2211:1 #tata
+2 qid:214 953:1 2031:1 #photon
+2 qid:214 666:1 2337:1 #max
+99 qid:214 #wifi
+2 qid:215 207:1 1596:1 #puma
+7 qid:215 632:1 3080:1 #men
+2 qid:215 51:1 1752:1 #flip
+99 qid:215 #flop
+2 qid:216 1355:1 2009:1 #jbl
+1 qid:216 1092:1 2306:1 #earphone
+99 qid:216 464:1 2900:1 #with
+2 qid:216 #mic
+1 qid:217 728:1 2040:1 #watch
+7 qid:217 219:1 2273:1 #man
+2 qid:217 #titan
+1 qid:218 1180:1 1620:1 #memory
+1 qid:218 3:1 6:1 448:1 2760:1 #card
+99 qid:218 1:1 4:1 75:1 2725:1 #32
+4 qid:218 2:1 5:1 #gb
+2 qid:219 1382:1 3053:1 #lava
+2 qid:219 683:1 2927:1 #iris
+2 qid:219 #fuel
+1 qid:220 293:1 2149:1 #football
+1 qid:220 388:1 1875:1 #shoe
+99 qid:220 604:1 1838:1 #for
+7 qid:220 #kid
+2 qid:221 818:1 2976:1 #iphone
+2 qid:221 447:1 2363:1 #otg
+1 qid:221 #cable
+2 qid:222 219:1 2258:1 #sonata
+7 qid:222 1292:1 1764:1 #lady
+1 qid:222 #watch
+2 qid:223 1451:1 2947:1 #creative
+1 qid:223 335:1 2996:1 #computer
+1 qid:223 #speaker
+2 qid:224 841:1 1976:1 #tupperware
+2 qid:224 1084:1 2239:1 #water
+1 qid:224 9:1 431:1 2386:1 #bottle
+99 qid:224 7:1 #1000ml
+2 qid:225 1046:1 1845:1 #hcl
+1 qid:225 530:1 2591:1 #laptop
+1 qid:225 #battery
+2 qid:226 691:1 2627:1 #samsung
+2 qid:226 3:1 6:1 1554:1 2101:1 #grand
+99 qid:226 1:1 4:1 1082:1 2236:1 #2
+1 qid:226 2:1 5:1 #charger
+2 qid:227 1342:1 1976:1 #milton
+2 qid:227 215:1 2239:1 #water
+1 qid:227 431:1 2887:1 #bottle
+2 qid:227 #steel
+2 qid:228 987:1 2850:1 #nokia
+2 qid:228 6:1 1497:1 2660:1 #bluetooth
+99 qid:228 4:1 1305:1 2850:1 #3.0
+2 qid:228 5:1 1115:1 2532:1 #bluetooth
+1 qid:228 #headset
+1 qid:229 691:1 1845:1 #car
+1 qid:229 455:1 2236:1 #laptop
+1 qid:229 #charger
+2 qid:230 691:1 2526:1 #lenovo
+99 qid:230 4:1 10:1 183:1 2127:1 #k3
+2 qid:230 5:1 11:1 981:1 2236:1 #note
+1 qid:230 #charger
+2 qid:231 75:1 2116:1 #samsung
+99 qid:231 1:1 4:1 1554:1 2725:1 #16
+4 qid:231 2:1 5:1 571:1 1620:1 #gb
+1 qid:231 #card
+2 qid:232 700:1 2366:1 #usha
+99 qid:232 742:1 2359:1 #celling
+1 qid:232 821:1 2792:1 #fan
+2 qid:232 814:1 2245:1 #high
+2 qid:232 #speed
+2 qid:233 1287:1 2414:1 #varsha
+1 qid:233 1185:1 2832:1 #dress
+1 qid:233 #material
+2 qid:234 1019:1 2000:1 #ambipur
+1 qid:234 862:1 2564:1 #car
+1 qid:234 #perfume
+2 qid:235 107:1 2285:1 #zaara
+2 qid:235 1133:1 2362:1 #royale
+99 qid:235 740:1 1652:1 #washing
+1 qid:235 #machine
+1 qid:236 75:1 1993:1 #camera
+1 qid:236 1230:1 1620:1 #memory
+1 qid:236 #card
+2 qid:237 996:1 2625:1 #swift
+2 qid:237 1417:1 2749:1 #dezire
+99 qid:237 1080:1 2541:1 #body
+1 qid:237 #cover
+2 qid:238 1354:1 2068:1 #micromax
+2 qid:238 1065:1 2643:1 #canvas
+1 qid:238 6:1 12:1 523:1 2899:1 #tablet
+99 qid:238 4:1 10:1 #p290
+2 qid:239 347:1 2019:1 #samsung
+99 qid:239 4:1 10:1 1554:1 2635:1 #s6
+2 qid:239 5:1 11:1 474:1 1892:1 #edge
+2 qid:239 #plus
+7 qid:240 1058:1 2776:1 #kid
+1 qid:240 293:1 2603:1 #pencil
+1 qid:240 #box
+2 qid:241 458:1 1596:1 #baggit
+7 qid:241 414:1 2003:1 #men
+1 qid:241 #wallet
+7 qid:242 1191:1 2891:1 #baby
+2 qid:242 1233:1 2736:1 #wet
+2 qid:242 #wipe
+1 qid:243 699:1 2119:1 #car
+2 qid:243 455:1 1566:1 #and
+1 qid:243 574:1 2244:1 #bike
+2 qid:243 #polish
+2 qid:244 1196:1 2149:1 #steel
+1 qid:244 1342:1 2741:1 #shoe
+1 qid:244 #rack
+2 qid:245 996:1 2823:1 #samsung
+2 qid:245 1554:1 1886:1 #galaxy
+2 qid:245 1278:1 2053:1 #core
+2 qid:245 341:1 2576:1 #prime
+1 qid:245 6:1 508:1 2772:1 #case
+99 qid:245 4:1 1031:1 2541:1 #&
+1 qid:245 5:1 #cover
+2 qid:246 557:1 2859:1 #intex
+2 qid:246 3:1 6:1 720:1 1602:1 #eco
+99 qid:246 1:1 4:1 1314:1 2102:1 #105
+3 qid:246 2:1 5:1 #white
+2 qid:247 136:1 2282:1 #intex
+2 qid:247 720:1 1681:1 #power
+1 qid:247 #bank
+2 qid:248 1002:1 1639:1 #xolo
+2 qid:248 9:1 882:1 1677:1 #era
+99 qid:248 7:1 94:1 2547:1 #8gb
+3 qid:248 8:1 #gold
+2 qid:249 919:1 2271:1 #barbie
+2 qid:249 6:1 425:1 2772:1 #doll
+99 qid:249 4:1 726:1 2271:1 #&
+2 qid:249 5:1 1227:1 2464:1 #doll
+1 qid:249 #house
+3 qid:250 51:1 2262:1 #silver
+1 qid:250 135:1 1875:1 #bracelet
+99 qid:250 717:1 1596:1 #for
+7 qid:250 #men
+3 qid:251 1183:1 1592:1 #blue
+2 qid:251 41:1 2728:1 #net
+1 qid:251 #saree
+2 qid:252 1046:1 2068:1 #micromax
+2 qid:252 6:1 12:1 1065:1 2686:1 #canvas
+99 qid:252 4:1 10:1 523:1 2591:1 #a114
+1 qid:252 5:1 11:1 #battery
+2 qid:253 492:1 1681:1 #power
+1 qid:253 3:1 6:1 737:1 2616:1 #bank
+99 qid:253 1:1 4:1 136:1 2037:1 #10000
+4 qid:253 2:1 5:1 #mah
+2 qid:254 399:1 1845:1 #dell
+1 qid:254 26:1 1944:1 #laptop
+2 qid:254 #skin
+2 qid:255 921:1 1890:1 #maybelline
+2 qid:255 154:1 2152:1 #super
+3 qid:255 345:1 2466:1 #black
+2 qid:255 #kajal
+2 qid:256 136:1 2282:1 #asus
+2 qid:256 998:1 1681:1 #power
+1 qid:256 #bank
+2 qid:257 604:1 1965:1 #spring
+2 qid:257 1112:1 2233:1 #blade
+99 qid:257 420:1 2149:1 #running
+1 qid:257 #shoe
+2 qid:258 996:1 2362:1 #ifb
+99 qid:258 914:1 1652:1 #washing
+1 qid:258 817:1 2541:1 #machine
+1 qid:258 #cover
+2 qid:259 422:1 2823:1 #samsung
+2 qid:259 1554:1 1967:1 #galaxy
+2 qid:259 #trend
+2 qid:260 996:1 2823:1 #samsung
+2 qid:260 1554:1 2627:1 #galaxy
+2 qid:260 1278:1 1587:1 #grand
+2 qid:260 1082:1 1892:1 #neo
+2 qid:260 42:1 2541:1 #plus
+1 qid:260 #cover
+1 qid:261 968:1 1596:1 #shoe
+7 qid:261 604:1 2513:1 #men
+3 qid:261 #grey
+2 qid:262 75:1 2458:1 #samsung
+2 qid:262 1554:1 2044:1 #micro
+99 qid:262 913:1 1620:1 #sd
+1 qid:262 #card
+2 qid:263 604:1 2068:1 #adidas
+2 qid:263 842:1 2149:1 #canvas
+1 qid:263 #shoe
+2 qid:264 1260:1 1857:1 #htc
+2 qid:264 6:1 9:1 947:1 1634:1 #desire
+99 qid:264 4:1 7:1 312:1 2991:1 #620g
+2 qid:264 5:1 8:1 89:1 2805:1 #dual
+2 qid:264 #sim
+2 qid:265 996:1 2068:1 #micromax
+2 qid:265 1065:1 2189:1 #canvas
+2 qid:265 6:1 12:1 523:1 1729:1 #spark
+99 qid:265 4:1 10:1 644:1 3056:1 #q380
+2 qid:265 5:1 11:1 184:1 2659:1 #iway
+99 qid:265 1511:1 2541:1 #back
+1 qid:265 #cover
+2 qid:266 219:1 2258:1 #timex
+7 qid:266 1320:1 1764:1 #lady
+1 qid:266 #watch
+2 qid:267 815:1 1596:1 #woodland
+7 qid:267 6:1 682:1 2192:1 #men
+99 qid:267 4:1 51:1 2164:1 #s
+99 qid:267 5:1 647:1 2641:1 #leather
+2 qid:267 619:1 2119:1 #sandal
+2 qid:267 1096:1 2360:1 #and
+1 qid:267 #floater
+2 qid:268 410:1 2526:1 #lenovo
+99 qid:268 4:1 10:1 183:1 2127:1 #k3
+2 qid:268 5:1 11:1 981:1 1955:1 #note
+1 qid:268 #smartphone
+2 qid:269 376:1 2116:1 #samsung
+99 qid:269 1:1 4:1 1554:1 2725:1 #16
+4 qid:269 2:1 5:1 571:1 1921:1 #gb
+1 qid:269 #pendrive
+2 qid:270 51:1 2149:1 #nike
+1 qid:270 283:1 1596:1 #shoe
+7 qid:270 #men
+7 qid:271 283:1 2175:1 #kid
+99 qid:271 293:1 2149:1 #sport
+1 qid:271 630:1 1828:1 #shoe
+2 qid:271 #nike
+99 qid:272 1:1 4:1 376:1 2725:1 #16
+4 qid:272 2:1 5:1 571:1 1600:1 #gb
+2 qid:272 1180:1 1921:1 #sandisk
+1 qid:272 #pendrive
+1 qid:273 521:1 2119:1 #jean
+2 qid:273 322:1 1714:1 #and
+2 qid:273 574:1 1875:1 #top
+99 qid:273 169:1 2066:1 #for
+7 qid:273 #girl
+2 qid:274 492:1 1681:1 #power
+1 qid:274 3:1 6:1 737:1 2210:1 #bank
+99 qid:274 1:1 4:1 136:1 2037:1 #30000
+4 qid:274 2:1 5:1 #mah
+2 qid:275 725:1 2647:1 #kundan
+2 qid:275 353:1 1768:1 #bridal
+11 qid:275 1102:1 2270:1 #wedding
+1 qid:275 #jewellery
+2 qid:276 51:1 1961:1 #davidoff
+2 qid:276 1388:1 1976:1 #cool
+2 qid:276 416:1 1596:1 #water
+7 qid:276 #men
+2 qid:277 133:1 1764:1 #led
+1 qid:277 1205:1 1678:1 #watch
+2 qid:277 #band
+2 qid:278 653:1 3053:1 #lava
+2 qid:278 683:1 2927:1 #iris
+2 qid:278 3:1 6:1 1508:1 2198:1 #fuel
+99 qid:278 1:1 4:1 #60
+7 qid:279 521:1 2241:1 #kid
+2 qid:279 293:1 2414:1 #summer
+1 qid:279 696:1 1875:1 #dress
+99 qid:279 869:1 2066:1 #for
+7 qid:279 #girl
+2 qid:280 1434:1 2114:1 #eveready
+99 qid:280 1:1 4:1 1551:1 2535:1 #14
+4 qid:280 2:1 5:1 569:1 2750:1 #watt
+2 qid:280 990:1 2979:1 #led
+1 qid:280 #bulb
+3 qid:281 51:1 2650:1 #black
+99 qid:281 607:1 2428:1 #formal
+1 qid:281 1105:1 1596:1 #pant
+7 qid:281 #men
+1 qid:282 573:1 1717:1 #cooler
+2 qid:282 314:1 2118:1 #master
+2 qid:282 #smps
+2 qid:283 82:1 2823:1 #samsung
+2 qid:283 1554:1 1966:1 #galaxy
+2 qid:283 1278:1 2540:1 #alfa
+99 qid:283 421:1 1627:1 #mobile
+1 qid:283 #phone
+1 qid:284 1249:1 2414:1 #frock
+1 qid:284 6:1 966:1 2772:1 #dress
+99 qid:284 4:1 869:1 2794:1 #&
+1 qid:284 5:1 #skirt
+2 qid:285 1248:1 2823:1 #samsung
+2 qid:285 1554:1 2793:1 #galaxy
+2 qid:285 #tab
+7 qid:286 521:1 2491:1 #kid
+1 qid:286 293:1 2066:1 #slipper
+7 qid:286 #girl
+2 qid:287 1446:1 3070:1 #sony
+2 qid:287 6:1 12:1 816:1 2981:1 #xperia
+99 qid:287 4:1 10:1 1525:1 2991:1 #c4
+2 qid:287 5:1 11:1 #dual
+2 qid:288 725:1 1768:1 #bridal
+11 qid:288 1102:1 2270:1 #wedding
+1 qid:288 #jewellery
+1 qid:289 604:1 1828:1 #sneaker
+2 qid:289 724:1 2376:1 #nike
+99 qid:289 283:1 2149:1 #casual
+1 qid:289 #shoe
+2 qid:290 1031:1 1817:1 #ipad
+2 qid:290 216:1 2576:1 #air
+1 qid:290 #case
+3 qid:291 713:1 1867:1 #black
+1 qid:291 607:1 1875:1 #jean
+99 qid:291 322:1 2258:1 #for
+7 qid:291 #lady
+2 qid:292 464:1 2850:1 #sony
+2 qid:292 816:1 2009:1 #bluetooth
+1 qid:292 #earphone
+2 qid:293 604:1 2102:1 #puma
+3 qid:293 632:1 2175:1 #white
+99 qid:293 557:1 2149:1 #sport
+1 qid:293 #shoe
+2 qid:294 464:1 3060:1 #xolo
+1 qid:294 6:1 882:1 2772:1 #headphone
+99 qid:294 4:1 1515:1 2009:1 #&
+1 qid:294 5:1 #earphone
+2 qid:295 604:1 2152:1 #puma
+3 qid:295 632:1 3033:1 #black
+2 qid:295 607:1 2376:1 #smart
+99 qid:295 1488:1 2149:1 #casual
+1 qid:295 #shoe
+2 qid:296 1271:1 2068:1 #micromax
+2 qid:296 1065:1 2547:1 #canvas
+3 qid:296 6:1 12:1 523:1 2816:1 #gold
+99 qid:296 4:1 10:1 #a300
+2 qid:297 75:1 1641:1 #samsung
+99 qid:297 7:1 1554:1 1993:1 #16gb
+1 qid:297 8:1 96:1 1620:1 #memory
+1 qid:297 #card
+2 qid:298 51:1 1764:1 #fastrack
+1 qid:298 1440:1 1875:1 #watch
+99 qid:298 219:1 1596:1 #for
+7 qid:298 #men
+2 qid:299 1090:1 2127:1 #galaxy
+2 qid:299 3:1 6:1 1278:1 2602:1 #note
+99 qid:299 1:1 4:1 582:1 2635:1 #4
+2 qid:299 2:1 5:1 #edge
+2 qid:300 1139:1 2068:1 #micromax
+2 qid:300 1065:1 2773:1 #canvas
+2 qid:300 6:1 12:1 523:1 2684:1 #doodle
+99 qid:300 4:1 10:1 #a111
+2 qid:301 604:1 1596:1 #puma
+7 qid:301 632:1 2149:1 #men
+1 qid:301 #shoe
+2 qid:302 82:1 3033:1 #intex
+2 qid:302 720:1 1627:1 #smart
+1 qid:302 #phone
+2 qid:303 694:1 2303:1 #milton
+99 qid:303 215:1 1976:1 #thermosteel
+2 qid:303 758:1 2239:1 #water
+1 qid:303 #bottle
+2 qid:304 1287:1 2264:1 #sri
+2 qid:304 747:1 2702:1 #ganesh
+99 qid:304 719:1 2414:1 #cotton
+1 qid:304 1157:1 2832:1 #dress
+1 qid:304 #material
+2 qid:305 347:1 2068:1 #micromax
+2 qid:305 1065:1 1892:1 #canvas
+2 qid:305 #plus
+2 qid:306 1403:1 2727:1 #lakme
+2 qid:306 241:1 2948:1 #compact
+1 qid:306 #powder
+99 qid:307 392:1 2127:1 #redmi
+2 qid:307 282:1 2053:1 #note
+2 qid:307 582:1 2697:1 #prime
+2 qid:307 508:1 1937:1 #tempered
+2 qid:307 #glass
+2 qid:308 190:1 2823:1 #samsung
+2 qid:308 6:1 12:1 1554:1 2021:1 #galaxy
+99 qid:308 4:1 10:1 1278:1 1735:1 #s4
+2 qid:308 5:1 11:1 #mini
+99 qid:309 1230:1 3033:1 #android
+2 qid:309 1453:1 1764:1 #smart
+1 qid:309 1488:1 2306:1 #watch
+99 qid:309 219:1 2805:1 #with
+2 qid:309 761:1 2119:1 #sim
+2 qid:309 1260:1 2775:1 #and
+1 qid:309 #camera
+2 qid:310 1338:1 2305:1 #hero
+1 qid:310 3:1 6:1 50:1 2441:1 #cycle
+99 qid:310 1:1 4:1 760:1 2883:1 #21
+2 qid:310 2:1 5:1 #gear
+2 qid:311 36:1 2531:1 #hero
+2 qid:311 50:1 1566:1 #electric
+1 qid:311 986:1 1581:1 #bike
+2 qid:311 #bicycle
+2 qid:312 1267:1 2649:1 #led
+99 qid:312 1205:1 2236:1 #emergency
+1 qid:312 1104:1 2812:1 #charger
+1 qid:312 #light
+2 qid:313 604:1 1965:1 #spring
+2 qid:313 1112:1 2149:1 #blade
+1 qid:313 #shoe
+2 qid:314 447:1 2405:1 #selfie
+1 qid:314 352:1 1875:1 #stick
+99 qid:314 860:1 1992:1 #for
+2 qid:314 #iphone
+99 qid:315 4:1 10:1 392:1 2635:1 #s7
+2 qid:315 5:1 11:1 473:1 2697:1 #edge
+2 qid:315 1090:1 1937:1 #tempered
+2 qid:315 #glass
+2 qid:316 604:1 2152:1 #reebok
+3 qid:316 672:1 2175:1 #black
+99 qid:316 607:1 2149:1 #sport
+1 qid:316 #shoe
+2 qid:317 996:1 2170:1 #samsung
+99 qid:317 4:1 10:1 1554:1 2547:1 #j7
+3 qid:317 5:1 11:1 625:1 2541:1 #gold
+1 qid:317 #cover
+2 qid:318 1446:1 3070:1 #sony
+2 qid:318 6:1 12:1 816:1 2364:1 #xperia
+99 qid:318 4:1 10:1 1525:1 2988:1 #t2
+2 qid:318 5:1 11:1 819:1 2991:1 #ultra
+2 qid:318 #dual
+2 qid:319 487:1 1596:1 #nivea
+7 qid:319 988:1 2633:1 #men
+99 qid:319 51:1 2032:1 #dark
+2 qid:319 #spot
+2 qid:320 1191:1 1594:1 #mee
+2 qid:320 49:1 2736:1 #mee
+2 qid:320 #wipe
+3 qid:321 1183:1 2195:1 #pink
+2 qid:321 468:1 2728:1 #color
+1 qid:321 #saree
+2 qid:322 1451:1 1912:1 #jbl
+99 qid:322 1092:1 2850:1 #wireless
+2 qid:322 367:1 2996:1 #bluetooth
+1 qid:322 #speaker
+2 qid:323 691:1 1800:1 #sony
+2 qid:323 816:1 1845:1 #vaio
+1 qid:323 255:1 2236:1 #laptop
+1 qid:323 #charger
+2 qid:324 82:1 2991:1 #samsung
+2 qid:324 1554:1 2805:1 #dual
+2 qid:324 1446:1 1627:1 #sim
+1 qid:324 #phone
+2 qid:325 314:1 1817:1 #symphony
+2 qid:325 359:1 1859:1 #air
+1 qid:325 #cooler
+2 qid:326 995:1 2823:1 #samsung
+2 qid:326 12:1 1554:1 2108:1 #galaxy
+2 qid:326 10:1 1278:1 1955:1 #on7
+1 qid:326 11:1 563:1 2540:1 #smartphone
+99 qid:326 #mobile
+2 qid:327 996:1 2964:1 #intex
+2 qid:327 720:1 2245:1 #aqua
+2 qid:327 1419:1 3076:1 #speed
+99 qid:327 700:1 2540:1 #hd
+99 qid:327 1531:1 3080:1 #mobile
+2 qid:327 995:1 2541:1 #flip
+1 qid:327 #cover
+2 qid:328 1287:1 2414:1 #kalamkari
+1 qid:328 265:1 2832:1 #dress
+1 qid:328 #material
+7 qid:329 1147:1 2414:1 #lady
+1 qid:329 713:1 2692:1 #dress
+1 qid:329 #cloth
+2 qid:330 1403:1 2727:1 #maybelline
+2 qid:330 154:1 2948:1 #compact
+1 qid:330 #powder
+99 qid:331 293:1 1820:1 #wall
+1 qid:331 1421:1 2235:1 #sticker
+2 qid:331 275:1 1838:1 #cartoon
+7 qid:331 #kid
+2 qid:332 571:1 2627:1 #samsung
+2 qid:332 1554:1 2031:1 #grand
+2 qid:332 3:1 6:1 1082:1 2116:1 #max
+99 qid:332 1:1 4:1 #16
+99 qid:333 881:1 1938:1 #woman
+1 qid:333 809:1 2119:1 #jacket
+2 qid:333 393:1 2426:1 #and
+1 qid:333 #coat
+2 qid:334 915:1 2068:1 #micromax
+2 qid:334 1065:1 2460:1 #canvas
+2 qid:334 #knight
+2 qid:335 228:1 2775:1 #nikon
+1 qid:335 790:1 1773:1 #camera
+1 qid:335 #bag
+2 qid:336 148:1 2547:1 #real
+3 qid:336 708:1 2400:1 #gold
+2 qid:336 1002:1 2270:1 #diamond
+1 qid:336 855:1 1693:1 #jewellery
+99 qid:336 #ring
+1 qid:337 938:1 2576:1 #bumper
+1 qid:337 938:1 2374:1 #case
+99 qid:337 1031:1 2483:1 #design
+1 qid:337 #bumper
+2 qid:338 856:1 2538:1 #samsung
+1 qid:338 1554:1 2701:1 #refrigerator
+99 qid:338 993:1 2401:1 #single
+1 qid:338 #door
+2 qid:339 275:1 3031:1 #royal
+2 qid:339 305:1 1820:1 #enfield
+1 qid:339 #sticker
+2 qid:340 996:1 1886:1 #samsung
+2 qid:340 1554:1 2053:1 #core
+2 qid:340 341:1 3080:1 #prime
+2 qid:340 508:1 2541:1 #flip
+1 qid:340 #cover
+2 qid:341 1031:1 2823:1 #samsung
+2 qid:341 6:1 12:1 1554:1 2019:1 #galaxy
+99 qid:341 4:1 10:1 1278:1 2576:1 #s6
+1 qid:341 5:1 11:1 #case
+2 qid:342 979:1 1768:1 #bridal
+11 qid:342 1102:1 2246:1 #wedding
+1 qid:342 223:1 1875:1 #lehenga
+99 qid:342 701:1 2524:1 #for
+2 qid:342 #dulhan
+2 qid:343 477:1 2823:1 #samsung
+2 qid:343 1554:1 2127:1 #galaxy
+2 qid:343 3:1 6:1 1278:1 2022:1 #note
+99 qid:343 1:1 4:1 #1
+2 qid:344 1552:1 2804:1 #timex
+2 qid:344 1320:1 3097:1 #intelligent
+2 qid:344 #quartz
+2 qid:345 996:1 3053:1 #lava
+2 qid:345 683:1 2694:1 #iris
+2 qid:345 1508:1 2541:1 #atom
+1 qid:345 #cover
+2 qid:346 1403:1 2248:1 #lakme
+2 qid:346 241:1 2948:1 #rose
+1 qid:346 #powder
+2 qid:347 607:1 2376:1 #nike
+99 qid:347 283:1 2149:1 #casual
+1 qid:347 831:1 2152:1 #shoe
+3 qid:347 #black
+2 qid:348 694:1 1976:1 #nayasa
+2 qid:348 371:1 2239:1 #water
+1 qid:348 #bottle
+2 qid:349 219:1 2308:1 #titan
+2 qid:349 728:1 2258:1 #raga
+7 qid:349 763:1 1764:1 #lady
+1 qid:349 #watch
+3 qid:350 228:1 2275:1 #black
+2 qid:350 607:1 1773:1 #sling
+1 qid:350 #bag
+2 qid:351 392:1 1639:1 #xolo
+2 qid:351 882:1 2697:1 #era
+2 qid:351 94:1 1937:1 #tempered
+2 qid:351 #glass
+2 qid:352 75:1 2760:1 #samsung
+99 qid:352 1:1 4:1 1554:1 2725:1 #32
+4 qid:352 2:1 5:1 1215:1 1993:1 #gb
+1 qid:352 1180:1 1620:1 #memory
+1 qid:352 #card
+2 qid:353 996:1 3070:1 #sony
+2 qid:353 6:1 12:1 816:1 2757:1 #xperia
+99 qid:353 4:1 10:1 1525:1 1892:1 #z3
+2 qid:353 5:1 11:1 1212:1 2576:1 #plus
+1 qid:353 347:1 2541:1 #case
+1 qid:353 #cover
+2 qid:354 75:1 1993:1 #strontium
+1 qid:354 1255:1 1620:1 #memory
+1 qid:354 #card
+2 qid:355 1515:1 3060:1 #sony
+1 qid:355 #headphone
+2 qid:356 587:1 2984:1 #ricoh
+2 qid:356 197:1 2132:1 #laser
+1 qid:356 #printer
+2 qid:357 21:1 2225:1 #vega
+1 qid:357 459:1 1875:1 #helmet
+99 qid:357 680:1 1566:1 #for
+1 qid:357 #bike
+2 qid:358 996:1 2053:1 #grand
+2 qid:358 1082:1 3080:1 #prime
+2 qid:358 508:1 2541:1 #flip
+1 qid:358 #cover
+2 qid:359 996:1 2823:1 #samsung
+2 qid:359 1554:1 2627:1 #galaxy
+2 qid:359 3:1 6:1 1278:1 2101:1 #grand
+99 qid:359 1:1 4:1 1082:1 3080:1 #2
+2 qid:359 2:1 5:1 556:1 2541:1 #flip
+1 qid:359 #cover
+2 qid:360 1451:1 2267:1 #intex
+2 qid:360 720:1 2996:1 #tower
+1 qid:360 #speaker
+2 qid:361 604:1 1596:1 #reebok
+7 qid:361 672:1 2149:1 #men
+1 qid:361 #shoe
+2 qid:362 293:1 2305:1 #hero
+1 qid:362 50:1 1875:1 #cycle
+99 qid:362 760:1 1838:1 #for
+7 qid:362 #kid
+2 qid:363 1098:1 3073:1 #ice
+2 qid:363 6:1 9:1 398:1 3102:1 #ultima
+99 qid:363 4:1 7:1 1528:1 2643:1 #4g
+1 qid:363 5:1 8:1 #tablet
+2 qid:364 944:1 2138:1 #pen
+2 qid:364 1124:1 2489:1 #drive
+2 qid:364 #fancy
+2 qid:365 1151:1 1987:1 #royal
+99 qid:365 305:1 1743:1 #canin
+2 qid:365 442:1 2696:1 #maxi
+2 qid:365 #junior
+99 qid:366 1:1 4:1 593:1 2725:1 #128
+4 qid:366 2:1 5:1 1392:1 2669:1 #gb
+2 qid:366 1180:1 2138:1 #pen
+2 qid:366 #drive
+2 qid:367 82:1 2798:1 #lenovo
+2 qid:367 6:1 12:1 183:1 2529:1 #vibe
+99 qid:367 4:1 10:1 1253:1 2127:1 #k4
+2 qid:367 5:1 11:1 984:1 2152:1 #note
+3 qid:367 582:1 2540:1 #black
+99 qid:367 607:1 1627:1 #mobile
+1 qid:367 #phone
+2 qid:368 1553:1 2823:1 #samsung
+2 qid:368 1554:1 3098:1 #galaxy
+2 qid:368 #star
+7 qid:369 455:1 1712:1 #kid
+2 qid:369 293:1 2000:1 #toy
+1 qid:369 #car
+2 qid:370 760:1 1558:1 #bsa
+2 qid:370 201:1 2305:1 #ladybird
+1 qid:370 #cycle
+7 qid:371 632:1 2477:1 #men
+1 qid:371 51:1 2177:1 #loafer
+2 qid:371 #puma
+2 qid:372 651:1 2117:1 #elle
+99 qid:372 1:1 4:1 153:1 2195:1 #18
+2 qid:372 2:1 5:1 572:1 2196:1 #color
+2 qid:372 #pop
+2 qid:373 219:1 3033:1 #iphone
+2 qid:373 447:1 1764:1 #smart
+1 qid:373 #watch
+2 qid:374 996:1 2823:1 #samsung
+2 qid:374 1554:1 2627:1 #galaxy
+2 qid:374 1278:1 1587:1 #grand
+2 qid:374 1082:1 2659:1 #neo
+99 qid:374 42:1 2541:1 #back
+1 qid:374 #cover
+2 qid:375 1319:1 1976:1 #milton
+2 qid:375 215:1 2239:1 #water
+1 qid:375 3:1 6:1 431:1 2101:1 #bottle
+99 qid:375 1:1 4:1 694:1 2864:1 #2
+4 qid:375 2:1 5:1 #ltr
+2 qid:376 75:1 1993:1 #kingston
+1 qid:376 1542:1 1620:1 #memory
+1 qid:376 #card
+99 qid:377 1287:1 3016:1 #cotton
+1 qid:377 1157:1 2414:1 #salwar
+1 qid:377 1471:1 2832:1 #dress
+1 qid:377 #material
+2 qid:378 1550:1 1974:1 #sbi
+2 qid:378 934:1 3095:1 #clerk
+1 qid:378 #book
+2 qid:379 607:1 1587:1 #oppo
+2 qid:379 3:1 6:1 941:1 2473:1 #neo
+99 qid:379 1:1 4:1 42:1 2152:1 #7
+3 qid:379 2:1 5:1 #black
+2 qid:380 1287:1 2414:1 #latest
+1 qid:380 1468:1 2832:1 #dress
+1 qid:380 #material
+99 qid:381 1:1 4:1 376:1 2725:1 #16
+4 qid:381 2:1 5:1 571:1 3071:1 #gb
+4 qid:381 1180:1 1921:1 #hp
+1 qid:381 #pendrive
+2 qid:382 331:1 2119:1 #top
+2 qid:382 169:1 1876:1 #and
+1 qid:382 #bottom
+1 qid:383 1554:1 1620:1 #memory
+1 qid:383 448:1 3099:1 #card
+2 qid:383 #samsung
+2 qid:384 143:1 2068:1 #micromax
+2 qid:384 3:1 6:1 1065:1 2396:1 #canvas
+99 qid:384 1:1 4:1 523:1 1688:1 #6
+2 qid:384 2:1 5:1 #series
+2 qid:385 814:1 2298:1 #bajaj
+1 qid:385 865:1 2359:1 #stand
+1 qid:385 #fan
+2 qid:386 392:1 2602:1 #iphone
+99 qid:386 1:1 4:1 447:1 2697:1 #4
+2 qid:386 2:1 5:1 1057:1 1937:1 #tempered
+2 qid:386 #glass
+2 qid:387 489:1 1844:1 #tata
+2 qid:387 953:1 2000:1 #indigo
+1 qid:387 299:1 2034:1 #car
+99 qid:387 #accessory
+2 qid:388 35:1 1872:1 #new
+99 qid:388 46:1 2778:1 #born
+7 qid:388 327:1 1580:1 #baby
+2 qid:388 #clothes
+2 qid:389 464:1 3060:1 #ubon
+1 qid:389 6:1 294:1 2772:1 #headphone
+99 qid:389 4:1 1515:1 2009:1 #&
+1 qid:389 5:1 #earphone
+2 qid:390 1287:1 2414:1 #khoobee
+1 qid:390 1022:1 2832:1 #dress
+1 qid:390 #material
+99 qid:391 1:1 4:1 593:1 2725:1 #32
+4 qid:391 2:1 5:1 1215:1 2669:1 #gb
+2 qid:391 1180:1 2138:1 #pen
+2 qid:391 #drive
+2 qid:392 1287:1 2264:1 #shree
+2 qid:392 1323:1 2414:1 #ganesh
+1 qid:392 719:1 2832:1 #dress
+1 qid:392 #material
+2 qid:393 1468:1 2670:1 #intex
+2 qid:393 720:1 2962:1 #cloud
+2 qid:393 6:1 9:1 1125:1 3102:1 #swift
+99 qid:393 4:1 7:1 1417:1 3080:1 #4g
+2 qid:393 5:1 8:1 1557:1 2541:1 #flip
+1 qid:393 1535:1 3013:1 #cover
+2 qid:393 #latest
+2 qid:394 51:1 1764:1 #sonata
+1 qid:394 1292:1 1875:1 #watch
+99 qid:394 219:1 1596:1 #for
+7 qid:394 #men
+2 qid:395 1096:1 2360:1 #lotto
+1 qid:395 732:1 2641:1 #floater
+2 qid:395 #sandal
+2 qid:396 314:1 3052:1 #crompton
+99 qid:396 1161:1 1817:1 #greave
+2 qid:396 1507:1 1859:1 #air
+1 qid:396 #cooler
+2 qid:397 800:1 2068:1 #micromax
+2 qid:397 1065:1 2793:1 #canvas
+2 qid:397 6:1 12:1 523:1 2345:1 #tab
+99 qid:397 4:1 10:1 #p480
+2 qid:398 51:1 2428:1 #cargo
+1 qid:398 424:1 1875:1 #pant
+99 qid:398 883:1 1596:1 #for
+7 qid:398 #men
+2 qid:399 694:1 1976:1 #steel
+2 qid:399 1342:1 2239:1 #water
+1 qid:399 #bottle
+2 qid:400 293:1 1937:1 #sun
+2 qid:400 835:1 1697:1 #glass
+99 qid:400 392:1 1838:1 #small
+7 qid:400 #kid
+2 qid:401 393:1 2195:1 #united
+2 qid:401 1251:1 2291:1 #color
+99 qid:401 650:1 3081:1 #of
+2 qid:401 746:1 1938:1 #benetton
+1 qid:401 #jacket
+2 qid:402 1144:1 3016:1 #latest
+1 qid:402 1468:1 2689:1 #salwar
+1 qid:402 #suit
+2 qid:403 322:1 1844:1 #american
+2 qid:403 936:1 1867:1 #indigo
+1 qid:403 #jean
+2 qid:404 1180:1 2823:1 #samsung
+2 qid:404 6:1 12:1 1554:1 2020:1 #galaxy
+99 qid:404 4:1 10:1 1278:1 2488:1 #s5
+2 qid:404 5:1 11:1 475:1 2547:1 #copper
+3 qid:404 3:1 6:1 943:1 2116:1 #gold
+99 qid:404 1:1 4:1 1002:1 2725:1 #16
+4 qid:404 2:1 5:1 #gb
+2 qid:405 1410:1 2393:1 #mrf
+2 qid:405 598:1 2605:1 #two
+2 qid:405 848:1 2955:1 #wheeler
+1 qid:405 3:1 6:1 1060:1 2101:1 #tyre
+99 qid:405 1:1 4:1 1410:1 2605:1 #2
+2 qid:405 2:1 5:1 556:1 2955:1 #wheeler
+1 qid:405 #tyre
+2 qid:406 937:1 2979:1 #led
+1 qid:406 6:1 1205:1 2791:1 #bulb
+99 qid:406 4:1 6:1 1434:1 2482:1 #0.5
+4 qid:406 4:1 5:1 #w
+2 qid:407 1090:1 2823:1 #samsung
+2 qid:407 1554:1 2127:1 #galaxy
+2 qid:407 1278:1 2635:1 #note
+2 qid:407 #edge
+2 qid:408 51:1 2269:1 #adidas
+1 qid:408 842:1 1596:1 #sneaker
+7 qid:408 #men
+2 qid:409 96:1 2670:1 #intex
+2 qid:409 720:1 2962:1 #cloud
+2 qid:409 9:1 1125:1 1641:1 #swift
+99 qid:409 7:1 #16gb
+7 qid:410 1111:1 3016:1 #lady
+1 qid:410 713:1 2656:1 #salwar
+1 qid:410 #kurti
+2 qid:411 700:1 2964:1 #intex
+2 qid:411 720:1 2245:1 #aqua
+2 qid:411 #speed
+2 qid:412 51:1 1867:1 #mufti
+1 qid:412 807:1 1596:1 #jean
+7 qid:412 #men
+2 qid:413 433:1 1764:1 #sonata
+1 qid:413 1292:1 1875:1 #watch
+99 qid:413 219:1 1978:1 #for
+7 qid:413 #boy
+1 qid:414 1278:1 3099:1 #headphone
+2 qid:414 1515:1 2823:1 #samsung
+2 qid:414 #galaxy
+99 qid:415 7:1 913:1 1993:1 #16gb
+1 qid:415 8:1 96:1 1620:1 #memory
+1 qid:415 448:1 2458:1 #card
+2 qid:415 #micro
+2 qid:416 996:1 2053:1 #grand
+2 qid:416 1082:1 2541:1 #prime
+1 qid:416 #cover
+2 qid:417 82:1 1808:1 #samsung
+2 qid:417 1554:1 1627:1 #basic
+1 qid:417 #phone
+2 qid:418 996:1 2068:1 #micromax
+2 qid:418 1065:1 2189:1 #canvas
+2 qid:418 3:1 6:1 523:1 2151:1 #spark
+99 qid:418 1:1 4:1 644:1 2541:1 #3
+1 qid:418 2:1 5:1 #cover
+2 qid:419 395:1 2775:1 #spy
+1 qid:419 463:1 2959:1 #camera
+2 qid:419 1230:1 1940:1 #key
+99 qid:419 #chain
+1 qid:420 814:1 2969:1 #battery
+1 qid:420 1046:1 2359:1 #table
+1 qid:420 #fan
+2 qid:421 729:1 1649:1 #karbonn
+2 qid:421 1309:1 2274:1 #titanium
+2 qid:421 #octane
+2 qid:422 51:1 3003:1 #chinese
+99 qid:422 799:1 2624:1 #collar
+1 qid:422 1458:1 1596:1 #shirt
+7 qid:422 #men
+1 qid:423 1385:1 2789:1 #door
+2 qid:423 856:1 2119:1 #lock
+2 qid:423 1244:1 2930:1 #and
+99 qid:423 #handle
+2 qid:424 96:1 3015:1 #sandisk
+2 qid:424 55:1 1965:1 #cruzer
+2 qid:424 1470:1 2771:1 #blade
+99 qid:424 420:1 1949:1 #usb
+2 qid:424 1226:1 2138:1 #flash
+2 qid:424 9:1 404:1 1641:1 #drive
+99 qid:424 7:1 #16gb
+3 qid:425 743:1 1891:1 #red
+2 qid:425 1312:1 2613:1 #coral
+2 qid:425 346:1 2288:1 #gem
+2 qid:425 #stone
+1 qid:426 1381:1 2119:1 #keyboard
+2 qid:426 119:1 1825:1 #and
+1 qid:426 574:1 2926:1 #mouse
+99 qid:426 #combo
+99 qid:427 1:1 4:1 75:1 2725:1 #16
+4 qid:427 2:1 5:1 571:1 2458:1 #gb
+2 qid:427 1180:1 1620:1 #micro
+1 qid:427 #card
+2 qid:428 995:1 2797:1 #samsung
+2 qid:428 1554:1 2991:1 #guru
+2 qid:428 1252:1 2805:1 #dual
+2 qid:428 1446:1 2540:1 #sim
+99 qid:428 #mobile
+2 qid:429 82:1 2484:1 #micromax
+99 qid:429 1065:1 2638:1 #cdma
+2 qid:429 939:1 2998:1 #gsm
+99 qid:429 1093:1 2991:1 #android
+2 qid:429 1453:1 2805:1 #dual
+2 qid:429 1446:1 1627:1 #sim
+1 qid:429 #phone
+2 qid:430 1488:1 2670:1 #intex
+2 qid:430 6:1 9:1 720:1 3102:1 #cloud
+99 qid:430 4:1 7:1 1125:1 3033:1 #4g
+2 qid:430 5:1 8:1 #smart
+2 qid:431 996:1 2362:1 #samsung
+99 qid:431 1554:1 1652:1 #washing
+1 qid:431 817:1 2541:1 #machine
+1 qid:431 #cover
+2 qid:432 1007:1 1831:1 #two
+1 qid:432 848:1 1819:1 #wheel
+2 qid:432 286:1 2552:1 #balance
+2 qid:432 #scooter
+2 qid:433 1403:1 2772:1 #johnson
+99 qid:433 4:1 497:1 2042:1 #&
+2 qid:433 5:1 1227:1 2778:1 #johnson
+7 qid:433 497:1 2948:1 #baby
+1 qid:433 #powder
+2 qid:434 1046:1 3070:1 #sony
+2 qid:434 6:1 816:1 1753:1 #xperia
+99 qid:434 4:1 1525:1 2591:1 #m
+1 qid:434 5:1 #battery
+7 qid:435 881:1 1834:1 #lady
+2 qid:435 713:1 2426:1 #rain
+1 qid:435 #coat
+2 qid:436 996:1 2019:1 #gionee
+99 qid:436 4:1 10:1 549:1 3080:1 #s6
+2 qid:436 5:1 11:1 474:1 2541:1 #flip
+1 qid:436 #cover
+2 qid:437 392:1 2823:1 #samsung
+2 qid:437 1554:1 2627:1 #galaxy
+2 qid:437 3:1 6:1 1278:1 2101:1 #grand
+99 qid:437 1:1 4:1 1082:1 2697:1 #2
+2 qid:437 2:1 5:1 556:1 1937:1 #tempered
+2 qid:437 #glass
+7 qid:438 51:1 2708:1 #men
+1 qid:438 51:1 1875:1 #trouser
+99 qid:438 1163:1 1596:1 #for
+7 qid:438 #men
+4 qid:439 399:1 1845:1 #hp
+1 qid:439 1526:1 1944:1 #laptop
+2 qid:439 #skin
+2 qid:440 607:1 2797:1 #samsung
+2 qid:440 6:1 12:1 1554:1 1797:1 #guru
+99 qid:440 4:1 10:1 1252:1 2152:1 #e1200
+3 qid:440 5:1 11:1 #black
+2 qid:441 136:1 2282:1 #xtra
+2 qid:441 1075:1 1681:1 #power
+1 qid:441 #bank
+2 qid:442 433:1 1773:1 #sling
+1 qid:442 730:1 1875:1 #bag
+99 qid:442 228:1 1978:1 #for
+7 qid:442 #boy
+2 qid:443 75:1 1993:1 #sandisk
+1 qid:443 55:1 1620:1 #memory
+1 qid:443 #card
+2 qid:444 51:1 1867:1 #levi
+1 qid:444 1322:1 1875:1 #jean
+99 qid:444 322:1 1596:1 #for
+7 qid:444 #men
+2 qid:445 1231:1 3007:1 #staedtler
+2 qid:445 88:1 2776:1 #colour
+1 qid:445 #pencil
+2 qid:446 82:1 1779:1 #nokia
+1 qid:446 1497:1 2540:1 #keypad
+99 qid:446 234:1 1627:1 #mobile
+1 qid:446 #phone
+2 qid:447 1046:1 3053:1 #lava
+2 qid:447 6:1 12:1 683:1 2109:1 #iris
+99 qid:447 4:1 10:1 1508:1 2591:1 #x5
+1 qid:447 5:1 11:1 #battery
+2 qid:448 996:1 1639:1 #xolo
+2 qid:448 882:1 2541:1 #era
+1 qid:448 #cover
+2 qid:449 1079:1 1564:1 #american
+2 qid:449 6:1 936:1 2671:1 #swan
+99 qid:449 4:1 19:1 2624:1 #t
+1 qid:449 5:1 #shirt
+2 qid:450 1451:1 2996:1 #bluetooth
+1 qid:450 1305:1 2743:1 #speaker
+2 qid:450 1451:1 2996:1 #iball
+1 qid:450 #speaker
+1 qid:451 1244:1 1831:1 #bike
+1 qid:451 21:1 2789:1 #wheel
+2 qid:451 #lock
+2 qid:452 1453:1 1695:1 #karbonn
+2 qid:452 6:1 1309:1 1975:1 #sparkle
+4 qid:452 4:1 150:1 2998:1 #v
+99 qid:452 5:1 #android
+2 qid:453 388:1 1568:1 #adidas
+2 qid:453 842:1 1933:1 #brazuca
+1 qid:453 #football
+7 qid:454 46:1 2909:1 #lady
+1 qid:454 713:1 1591:1 #handbag
+2 qid:454 #new
+2 qid:455 1432:1 2941:1 #nike
+2 qid:455 3:1 6:1 283:1 2977:1 #airmax
+6 qid:455 1:1 4:1 #2015
+2 qid:456 996:1 1803:1 #infocus
+2 qid:456 3:1 6:1 1466:1 1861:1 #bingo
+99 qid:456 1:1 4:1 258:1 3080:1 #50
+2 qid:456 2:1 5:1 316:1 2541:1 #flip
+1 qid:456 #cover
+2 qid:457 503:1 2750:1 #dell
+2 qid:457 26:1 2048:1 #led
+2 qid:457 #monitor
+2 qid:458 987:1 2850:1 #asus
+2 qid:458 998:1 2532:1 #bluetooth
+1 qid:458 #headset
+2 qid:459 1096:1 1586:1 #puma
+3 qid:459 632:1 2360:1 #blue
+1 qid:459 41:1 2641:1 #floater
+2 qid:459 #sandal
+2 qid:460 75:1 2760:1 #sandisk
+99 qid:460 1:1 4:1 55:1 2725:1 #32
+4 qid:460 2:1 5:1 1215:1 1993:1 #gb
+1 qid:460 1180:1 1620:1 #memory
+1 qid:460 #card
+2 qid:461 996:1 2823:1 #samsung
+2 qid:461 1554:1 2627:1 #galaxy
+2 qid:461 3:1 6:1 1278:1 2101:1 #grand
+99 qid:461 1:1 4:1 1082:1 2541:1 #2
+1 qid:461 2:1 5:1 #cover
+2 qid:462 557:1 2068:1 #micromax
+2 qid:462 1065:1 2189:1 #canvas
+2 qid:462 3:1 6:1 523:1 2101:1 #spark
+99 qid:462 1:1 3:1 4:1 6:1 644:1 2602:1 #2
+99 qid:462 1:1 2:1 4:1 5:1 556:1 2725:1 #4
+4 qid:462 2:1 5:1 1057:1 2102:1 #gb
+3 qid:462 #white
+2 qid:463 996:1 2581:1 #micromax
+99 qid:463 4:1 10:1 1065:1 3080:1 #a106
+2 qid:463 5:1 11:1 1036:1 2541:1 #flip
+1 qid:463 #cover
+2 qid:464 192:1 1845:1 #samsung
+1 qid:464 1554:1 1737:1 #laptop
+2 qid:464 #ram
+2 qid:465 1496:1 1642:1 #led
+2 qid:465 1205:1 2812:1 #decorative
+1 qid:465 97:1 3041:1 #light
+99 qid:465 #home
+2 qid:466 1310:1 1933:1 #nivia
+1 qid:466 542:1 2855:1 #football
+2 qid:466 #stud
+99 qid:467 1:1 4:1 593:1 2725:1 #64
+4 qid:467 2:1 5:1 655:1 2669:1 #gb
+2 qid:467 1180:1 2138:1 #pen
+2 qid:467 #drive
+2 qid:468 1144:1 3016:1 #melange
+1 qid:468 339:1 2689:1 #salwar
+1 qid:468 #suit
+2 qid:469 376:1 2760:1 #sony
+99 qid:469 1:1 4:1 816:1 2725:1 #32
+4 qid:469 2:1 5:1 1215:1 1921:1 #gb
+1 qid:469 #pendrive
+2 qid:470 51:1 1764:1 #fastrack
+1 qid:470 1440:1 1596:1 #watch
+7 qid:470 #men
+2 qid:471 1096:1 2360:1 #sparx
+1 qid:471 638:1 2641:1 #floater
+2 qid:471 #sandal
+2 qid:472 996:1 2823:1 #samsung
+2 qid:472 1554:1 2627:1 #galaxy
+2 qid:472 1278:1 2053:1 #grand
+2 qid:472 1082:1 2659:1 #prime
+99 qid:472 508:1 2541:1 #back
+1 qid:472 #cover
+2 qid:473 82:1 2757:1 #blackberry
+99 qid:473 4:1 10:1 721:1 3033:1 #z3
+2 qid:473 5:1 11:1 1212:1 1627:1 #smart
+1 qid:473 #phone
+2 qid:474 1267:1 2032:1 #led
+2 qid:474 1205:1 2812:1 #spot
+1 qid:474 #light
+2 qid:475 1124:1 2999:1 #reynolds
+2 qid:475 1048:1 2669:1 #ball
+2 qid:475 #pen
+2 qid:476 1183:1 2728:1 #fancy
+1 qid:476 944:1 1954:1 #saree
+3 qid:476 1183:1 2728:1 #brown
+1 qid:476 #saree
+4 qid:477 996:1 1845:1 #hp
+1 qid:477 1526:1 2541:1 #laptop
+1 qid:477 #cover
+2 qid:478 1424:1 2947:1 #nilkamal
+1 qid:478 1289:1 2969:1 #computer
+1 qid:478 #table
+2 qid:479 694:1 1976:1 #nike
+2 qid:479 283:1 2239:1 #water
+1 qid:479 #bottle
+2 qid:480 82:1 3053:1 #lava
+2 qid:480 683:1 2540:1 #iris
+99 qid:480 1508:1 1627:1 #mobile
+1 qid:480 #phone
+2 qid:481 680:1 3031:1 #royal
+2 qid:481 305:1 2225:1 #enfield
+1 qid:481 #helmet
+2 qid:482 668:1 2655:1 #huawei
+2 qid:482 1200:1 2010:1 #google
+2 qid:482 6:1 9:1 1110:1 2213:1 #nexus
+99 qid:482 4:1 7:1 #6p
+2 qid:483 606:1 2823:1 #samsung
+2 qid:483 1554:1 2127:1 #galaxy
+2 qid:483 3:1 6:1 1278:1 2151:1 #note
+99 qid:483 1:1 4:1 #3
+1 qid:484 616:1 2564:1 #car
+1 qid:484 455:1 2161:1 #perfume
+1 qid:484 #gel
+2 qid:485 136:1 2282:1 #xiaomi
+2 qid:485 1164:1 1681:1 #power
+1 qid:485 #bank
+2 qid:486 996:1 1803:1 #infocus
+2 qid:486 3:1 6:1 1466:1 1861:1 #bingo
+99 qid:486 1:1 4:1 258:1 2541:1 #50
+1 qid:486 2:1 5:1 #cover
+2 qid:487 347:1 2935:1 #micromax
+2 qid:487 1065:1 1892:1 #yureka
+2 qid:487 #plus
+2 qid:488 1079:1 1596:1 #iron
+7 qid:488 6:1 189:1 2671:1 #men
+99 qid:488 4:1 51:1 2624:1 #t
+1 qid:488 5:1 #shirt
+2 qid:489 556:1 2823:1 #samsung
+2 qid:489 1554:1 2127:1 #galaxy
+2 qid:489 3:1 6:1 1278:1 2101:1 #note
+99 qid:489 1:1 4:1 #2
+2 qid:490 1183:1 2664:1 #new
+2 qid:490 46:1 2728:1 #trendz
+1 qid:490 #saree
+2 qid:491 607:1 2798:1 #lenovo
+2 qid:491 6:1 12:1 183:1 2529:1 #vibe
+99 qid:491 4:1 10:1 1253:1 2127:1 #k4
+2 qid:491 5:1 11:1 984:1 2152:1 #note
+3 qid:491 #black
+2 qid:492 604:1 2152:1 #nike
+3 qid:492 283:1 2149:1 #black
+1 qid:492 #shoe
+2 qid:493 996:1 2000:1 #alto
+1 qid:493 432:1 2749:1 #car
+99 qid:493 455:1 2541:1 #body
+1 qid:493 #cover
+2 qid:494 996:1 2189:1 #micromax
+2 qid:494 1065:1 2659:1 #spark
+99 qid:494 644:1 2541:1 #back
+1 qid:494 #cover
+2 qid:495 228:1 1845:1 #sony
+1 qid:495 816:1 1773:1 #laptop
+1 qid:495 #bag
+2 qid:496 51:1 1937:1 #sun
+2 qid:496 835:1 1596:1 #glass
+7 qid:496 #men
+2 qid:497 1183:1 1586:1 #sky
+3 qid:497 1480:1 2728:1 #blue
+1 qid:497 #saree
+3 qid:498 219:1 2590:1 #golden
+2 qid:498 62:1 1596:1 #bell
+7 qid:498 1045:1 1931:1 #men
+99 qid:498 51:1 1764:1 #'s
+1 qid:498 #watch
+2 qid:499 376:1 2976:1 #sandisk
+2 qid:499 55:1 1921:1 #otg
+1 qid:499 #pendrive
+1 qid:500 55:1 2116:1 #pendrive
+99 qid:500 1:1 4:1 376:1 2725:1 #16
+4 qid:500 2:1 5:1 571:1 1600:1 #gb
+2 qid:500 #sandisk
+2 qid:501 1124:1 2999:1 #uniball
+2 qid:501 98:1 2669:1 #ball
+2 qid:501 #pen
+2 qid:502 996:1 3031:1 #royal
+2 qid:502 305:1 1936:1 #enfield
+99 qid:502 1486:1 1566:1 #bullet
+1 qid:502 391:1 2541:1 #bike
+1 qid:502 #cover
+2 qid:503 996:1 3070:1 #sony
+2 qid:503 6:1 12:1 816:1 2756:1 #xperia
+99 qid:503 4:1 10:1 1525:1 2541:1 #z2
+1 qid:503 5:1 11:1 #cover
+2 qid:504 968:1 2322:1 #iphone
+99 qid:504 1:1 4:1 447:1 2070:1 #5
+2 qid:504 2:1 5:1 777:1 2513:1 #space
+3 qid:504 #grey
+2 qid:505 293:1 1764:1 #led
+1 qid:505 1205:1 1875:1 #watch
+99 qid:505 219:1 1838:1 #for
+7 qid:505 #kid
+2 qid:506 489:1 1661:1 #maruti
+2 qid:506 1408:1 2000:1 #zen
+1 qid:506 116:1 2034:1 #car
+99 qid:506 #accessory
+3 qid:507 1096:1 2924:1 #red
+99 qid:507 1312:1 2360:1 #tape
+1 qid:507 1379:1 2641:1 #floater
+2 qid:507 #sandal
+2 qid:508 1451:1 2000:1 #pioneer
+1 qid:508 734:1 2996:1 #car
+1 qid:508 #speaker
+2 qid:509 1046:1 1886:1 #samsung
+2 qid:509 1554:1 2591:1 #core
+1 qid:509 #battery
+2 qid:510 607:1 1639:1 #xolo
+2 qid:510 9:1 882:1 1677:1 #era
+99 qid:510 7:1 94:1 2152:1 #8gb
+3 qid:510 8:1 #black
+2 qid:511 691:1 2000:1 #eveready
+1 qid:511 1551:1 2236:1 #car
+1 qid:511 #charger
+2 qid:512 996:1 2192:1 #gionee
+99 qid:512 4:1 549:1 1892:1 #s
+2 qid:512 5:1 647:1 3080:1 #plus
+2 qid:512 347:1 2541:1 #flip
+1 qid:512 #cover
+7 qid:513 167:1 2772:1 #baby
+99 qid:513 4:1 1233:1 2803:1 #&
+2 qid:513 5:1 1227:1 1712:1 #toddler
+2 qid:513 #toy
+2 qid:514 556:1 3033:1 #sony
+2 qid:514 816:1 1764:1 #smart
+1 qid:514 3:1 6:1 1488:1 2101:1 #watch
+99 qid:514 1:1 4:1 #2
+7 qid:515 219:1 2653:1 #lady
+2 qid:515 713:1 2808:1 #stylish
+99 qid:515 1108:1 1764:1 #wrist
+1 qid:515 #watch
+2 qid:516 133:1 2913:1 #intex
+99 qid:516 720:1 3033:1 #fitrist
+2 qid:516 1368:1 1678:1 #smart
+2 qid:516 #band
+2 qid:517 82:1 2068:1 #micromax
+2 qid:517 1065:1 2556:1 #canvas
+2 qid:517 3:1 6:1 523:1 2101:1 #express
+99 qid:517 1:1 4:1 1011:1 1627:1 #2
+1 qid:517 2:1 5:1 #phone
+3 qid:518 51:1 2624:1 #blue
+1 qid:518 41:1 1875:1 #shirt
+99 qid:518 1079:1 1596:1 #for
+7 qid:518 #men
+2 qid:519 521:1 1714:1 #fancy
+2 qid:519 944:1 1875:1 #top
+99 qid:519 169:1 2066:1 #for
+7 qid:519 #girl
+2 qid:520 464:1 3060:1 #beat
+1 qid:520 6:1 1386:1 2772:1 #headphone
+99 qid:520 4:1 1515:1 2009:1 #&
+1 qid:520 5:1 #earphone
+2 qid:521 1098:1 2068:1 #micromax
+2 qid:521 6:1 12:1 1065:1 2345:1 #canvas
+99 qid:521 4:1 10:1 523:1 2643:1 #p480
+1 qid:521 5:1 11:1 #tablet
+2 qid:522 21:1 3031:1 #royal
+2 qid:522 305:1 1566:1 #enfield
+1 qid:522 #bike
+11 qid:523 433:1 1858:1 #birthday
+1 qid:523 491:1 1875:1 #gift
+99 qid:523 313:1 1978:1 #for
+7 qid:523 #boy
+2 qid:524 996:1 2670:1 #intex
+2 qid:524 720:1 3100:1 #cloud
+2 qid:524 6:1 1125:1 1753:1 #jewel
+99 qid:524 4:1 1555:1 2576:1 #m
+1 qid:524 5:1 208:1 2659:1 #case
+99 qid:524 1031:1 2541:1 #back
+1 qid:524 #cover
+2 qid:525 996:1 2068:1 #micromax
+2 qid:525 1065:1 2793:1 #canvas
+2 qid:525 6:1 12:1 523:1 2475:1 #tab
+99 qid:525 4:1 10:1 1248:1 2643:1 #p702
+1 qid:525 5:1 11:1 930:1 2541:1 #tablet
+1 qid:525 #cover
+2 qid:526 193:1 2068:1 #micromax
+2 qid:526 1065:1 1738:1 #canvas
+2 qid:526 #nitro
+2 qid:527 54:1 2748:1 #sony
+99 qid:527 4:1 7:1 816:1 1937:1 #3d
+2 qid:527 5:1 8:1 1203:1 1599:1 #glass
+2 qid:527 #active
+2 qid:528 1410:1 1826:1 #maruti
+99 qid:528 1:1 4:1 1408:1 2000:1 #800
+1 qid:528 2:1 5:1 281:1 2955:1 #car
+1 qid:528 #tyre
+2 qid:529 82:1 3033:1 #lava
+2 qid:529 683:1 1627:1 #smart
+1 qid:529 #phone
+1 qid:530 1462:1 1823:1 #saree
+99 qid:530 1183:1 1607:1 #in
+3 qid:530 278:1 3007:1 #golden
+2 qid:530 #colour
+2 qid:531 82:1 1779:1 #samsung
+1 qid:531 1554:1 1627:1 #keypad
+1 qid:531 #phone
+2 qid:532 75:1 2988:1 #sandisk
+2 qid:532 9:1 55:1 1641:1 #ultra
+99 qid:532 7:1 1443:1 1993:1 #16gb
+1 qid:532 8:1 96:1 1620:1 #memory
+1 qid:532 #card
+2 qid:533 219:1 3033:1 #motorola
+2 qid:533 1491:1 1764:1 #smart
+1 qid:533 #watch
+2 qid:534 404:1 2670:1 #intex
+2 qid:534 720:1 1949:1 #cloud
+2 qid:534 #flash
+2 qid:535 243:1 1985:1 #oriflame
+2 qid:535 1103:1 1788:1 #love
+2 qid:535 #nature
+2 qid:536 399:1 1626:1 #roman
+99 qid:536 1042:1 1845:1 #reign
+1 qid:536 81:1 1944:1 #laptop
+2 qid:536 #skin
+2 qid:537 367:1 2850:1 #samsung
+2 qid:537 1554:1 3060:1 #bluetooth
+1 qid:537 1305:1 1912:1 #headphone
+99 qid:537 #wireless
+2 qid:538 1351:1 2823:1 #samsung
+2 qid:538 1554:1 2627:1 #galaxy
+2 qid:538 3:1 6:1 1278:1 2896:1 #grand
+99 qid:538 1:1 4:1 #19082
+2 qid:539 995:1 1591:1 #vivo
+2 qid:539 372:1 1627:1 #new
+1 qid:539 3:1 6:1 46:1 2602:1 #phone
+99 qid:539 1:1 4:1 82:1 2725:1 #4
+4 qid:539 2:1 5:1 1057:1 1737:1 #gb
+2 qid:539 1180:1 2540:1 #ram
+99 qid:539 #mobile
+2 qid:540 1020:1 3053:1 #lava
+2 qid:540 683:1 2694:1 #iris
+2 qid:540 6:1 1508:1 2565:1 #atom
+99 qid:540 4:1 #x
+2 qid:541 96:1 2823:1 #samsung
+2 qid:541 1554:1 2627:1 #galaxy
+2 qid:541 9:1 1278:1 1641:1 #grand
+99 qid:541 7:1 #16gb
+2 qid:542 1007:1 2025:1 #hero
+2 qid:542 50:1 2552:1 #maestro
+2 qid:542 #scooter
+2 qid:543 136:1 2282:1 #oppo
+2 qid:543 941:1 1681:1 #power
+1 qid:543 #bank
+1 qid:544 275:1 1816:1 #bike
+1 qid:544 21:1 1820:1 #tank
+1 qid:544 #sticker
+2 qid:545 492:1 2282:1 #lenovo
+2 qid:545 183:1 1681:1 #power
+1 qid:545 3:1 6:1 737:1 2646:1 #bank
+99 qid:545 1:1 4:1 136:1 2037:1 #13000
+4 qid:545 2:1 5:1 #mah
+2 qid:546 713:1 1835:1 #fastrack
+99 qid:546 1440:1 1773:1 #hand
+1 qid:546 290:1 2258:1 #bag
+7 qid:546 #lady
+2 qid:547 132:1 2964:1 #intex
+2 qid:547 720:1 2388:1 #aqua
+2 qid:547 9:1 1419:1 1677:1 #young
+99 qid:547 7:1 #8gb
+2 qid:548 219:1 2308:1 #titan
+2 qid:548 728:1 1764:1 #raga
+1 qid:548 #watch
+3 qid:549 1183:1 3007:1 #white
+2 qid:549 557:1 2728:1 #colour
+1 qid:549 #saree
+2 qid:550 228:1 1825:1 #mickey
+1 qid:550 972:1 1577:1 #mouse
+99 qid:550 280:1 1773:1 #school
+1 qid:550 #bag
+2 qid:551 51:1 2842:1 #nova
+1 qid:551 357:1 1875:1 #trimmer
+99 qid:551 1297:1 1596:1 #for
+7 qid:551 #men
+2 qid:552 467:1 2964:1 #intex
+2 qid:552 720:1 2012:1 #aqua
+2 qid:552 #craze
+7 qid:553 869:1 2066:1 #baby
+7 qid:553 1233:1 2414:1 #girl
+1 qid:553 #dress
+2 qid:554 75:1 1677:1 #samsung
+99 qid:554 7:1 1554:1 1993:1 #8gb
+1 qid:554 8:1 132:1 1620:1 #memory
+1 qid:554 #card
+2 qid:555 1557:1 3033:1 #vivo
+2 qid:555 372:1 1627:1 #smart
+1 qid:555 6:1 9:1 1488:1 3102:1 #phone
+99 qid:555 4:1 7:1 #4g
+2 qid:556 1124:1 2999:1 #parker
+2 qid:556 1372:1 2669:1 #ball
+2 qid:556 #pen
+2 qid:557 848:1 1892:1 #one
+2 qid:557 550:1 2393:1 #plus
+2 qid:557 #two
+2 qid:558 1096:1 1586:1 #sparx
+3 qid:558 638:1 2360:1 #blue
+1 qid:558 41:1 2641:1 #floater
+2 qid:558 #sandal
+2 qid:559 1410:1 2000:1 #mrf
+1 qid:559 598:1 2955:1 #car
+1 qid:559 #tyre
+7 qid:560 433:1 2086:1 #kid
+1 qid:560 293:1 1978:1 #footwear
+7 qid:560 #boy
+2 qid:561 1098:1 2823:1 #samsung
+2 qid:561 1554:1 2643:1 #galaxy
+1 qid:561 #tablet
+2 qid:562 75:1 2038:1 #huawei
+2 qid:562 1200:1 1620:1 #data
+1 qid:562 #card
+2 qid:563 433:1 2641:1 #puma
+2 qid:563 6:1 632:1 2772:1 #sandal
+99 qid:563 4:1 1096:1 2360:1 #&
+1 qid:563 5:1 1227:1 1978:1 #floater
+7 qid:563 #boy
+99 qid:564 1:1 4:1 593:1 2725:1 #4
+4 qid:564 2:1 5:1 1057:1 2669:1 #gb
+2 qid:564 1180:1 2138:1 #pen
+2 qid:564 #drive
+2 qid:565 458:1 2152:1 #puma
+3 qid:565 632:1 2164:1 #black
+99 qid:565 607:1 2003:1 #leather
+1 qid:565 #wallet
+2 qid:566 75:1 1858:1 #google
+1 qid:566 1110:1 1620:1 #gift
+1 qid:566 #card
+2 qid:567 51:1 1764:1 #fastrack
+1 qid:567 1440:1 1875:1 #watch
+99 qid:567 219:1 1596:1 #for
+7 qid:567 #men
+2 qid:568 82:1 1779:1 #samsung
+1 qid:568 1554:1 2540:1 #keypad
+99 qid:568 234:1 1627:1 #mobile
+1 qid:568 #phone
+2 qid:569 51:1 1764:1 #iik
+1 qid:569 1235:1 1596:1 #watch
+7 qid:569 #men
+2 qid:570 1096:1 2360:1 #puma
+1 qid:570 632:1 2641:1 #floater
+2 qid:570 #sandal
+2 qid:571 987:1 2850:1 #mini
+2 qid:571 190:1 2532:1 #bluetooth
+1 qid:571 #headset
+2 qid:572 753:1 2349:1 #led
+99 qid:572 1205:1 2969:1 #tv
+1 qid:572 804:1 1740:1 #table
+2 qid:572 1424:1 2298:1 #mount
+1 qid:572 #stand
+2 qid:573 75:1 2530:1 #google
+2 qid:573 1110:1 1858:1 #play
+1 qid:573 985:1 1620:1 #gift
+1 qid:573 #card
+99 qid:574 280:1 1664:1 #wireless
+1 qid:574 367:1 2119:1 #keyboard
+2 qid:574 119:1 1825:1 #and
+1 qid:574 #mouse
+2 qid:575 1058:1 3052:1 #crompton
+99 qid:575 1161:1 1603:1 #greave
+2 qid:575 1507:1 1734:1 #dry
+2 qid:575 58:1 2603:1 #iron
+1 qid:575 #box
+2 qid:576 1283:1 2823:1 #samsung
+2 qid:576 6:1 12:1 1554:1 2173:1 #galaxy
+99 qid:576 3:1 4:1 6:1 10:1 1278:1 2828:1 #j3
+6 qid:576 1:1 4:1 5:1 11:1 #2016
+2 qid:577 677:1 1596:1 #jockey
+7 qid:577 1140:1 2222:1 #men
+1 qid:577 #vest
+99 qid:578 7:1 55:1 1993:1 #64gb
+1 qid:578 8:1 1429:1 1620:1 #memory
+1 qid:578 448:1 1600:1 #card
+2 qid:578 #sandisk
+2 qid:579 597:1 1870:1 #paint
+2 qid:579 950:1 1658:1 #zoom
+2 qid:579 325:1 2142:1 #ultimate
+2 qid:579 #professional
+2 qid:580 1462:1 2823:1 #samsung
+2 qid:580 1554:1 2627:1 #galaxy
+2 qid:580 3:1 6:1 1278:1 2101:1 #grand
+99 qid:580 1:1 4:1 1082:1 2541:1 #2
+1 qid:580 2:1 5:1 556:1 1607:1 #cover
+3 qid:580 996:1 3007:1 #golden
+2 qid:580 #colour
+7 qid:581 1002:1 1764:1 #lady
+1 qid:581 713:1 2837:1 #watch
+2 qid:581 219:1 2547:1 #sonata
+3 qid:581 #gold
+99 qid:582 1:1 4:1 898:1 2726:1 #1
+4 qid:582 2:1 5:1 477:1 2547:1 #gm
+3 qid:582 1181:1 2443:1 #gold
+2 qid:582 #bangle
+2 qid:583 1184:1 1649:1 #karbonn
+2 qid:583 1309:1 2033:1 #titanium
+2 qid:583 6:1 12:1 104:1 2729:1 #dazzle
+99 qid:583 4:1 10:1 #s201
+2 qid:584 458:1 2140:1 #puma
+2 qid:584 632:1 2003:1 #ferrari
+1 qid:584 #wallet
+2 qid:585 987:1 2850:1 #nokia
+2 qid:585 1497:1 2532:1 #bluetooth
+1 qid:585 #headset
+7 qid:586 219:1 2066:1 #baby
+7 qid:586 1233:1 1764:1 #girl
+1 qid:586 #watch
+7 qid:587 715:1 2772:1 #baby
+99 qid:587 4:1 1233:1 1838:1 #&
+7 qid:587 5:1 1227:1 2260:1 #kid
+1 qid:587 #furniture
+2 qid:588 607:1 2068:1 #micromax
+2 qid:588 1065:1 2189:1 #canvas
+2 qid:588 3:1 6:1 523:1 2101:1 #spark
+99 qid:588 1:1 4:1 644:1 2152:1 #2
+3 qid:588 2:1 5:1 #black
+2 qid:589 1451:1 2947:1 #logitech
+1 qid:589 1363:1 2996:1 #computer
+1 qid:589 #speaker
+2 qid:590 604:1 1596:1 #puma
+7 qid:590 632:1 2149:1 #men
+1 qid:590 #shoe
+2 qid:591 869:1 2066:1 #pretty
+7 qid:591 1009:1 2511:1 #girl
+1 qid:591 6:1 521:1 2772:1 #frock
+99 qid:591 4:1 966:1 2414:1 #&
+1 qid:591 5:1 #dress
+2 qid:592 1002:1 2396:1 #iphone
+99 qid:592 1:1 4:1 447:1 1892:1 #6
+2 qid:592 2:1 3:1 5:1 6:1 851:1 2116:1 #plus
+99 qid:592 1:1 4:1 347:1 2725:1 #16
+4 qid:592 2:1 5:1 571:1 2248:1 #gb
+2 qid:592 1180:1 2547:1 #rose
+3 qid:592 #gold
+3 qid:593 1183:1 1592:1 #pink
+2 qid:593 468:1 2728:1 #net
+1 qid:593 #saree
+2 qid:594 314:1 2630:1 #hindware
+99 qid:594 863:1 1635:1 #snowcrest
+1 qid:594 1085:1 1817:1 #room
+2 qid:594 90:1 1859:1 #air
+1 qid:594 #cooler
+2 qid:595 1079:1 2201:1 #puma
+2 qid:595 6:1 632:1 2671:1 #polo
+99 qid:595 4:1 656:1 2624:1 #t
+1 qid:595 5:1 #shirt
+2 qid:596 1049:1 2790:1 #sona
+2 qid:596 808:1 2594:1 #slim
+1 qid:596 #belt
+99 qid:597 1:1 4:1 75:1 2725:1 #32
+4 qid:597 2:1 5:1 1215:1 2038:1 #gb
+2 qid:597 1180:1 1620:1 #data
+1 qid:597 #card
+2 qid:598 82:1 3033:1 #asus
+2 qid:598 998:1 1627:1 #smart
+1 qid:598 #phone
+3 qid:599 1287:1 2414:1 #gold
+1 qid:599 1002:1 2832:1 #dress
+1 qid:599 #material
+2 qid:600 42:1 2823:1 #samsung
+2 qid:600 1554:1 2793:1 #galaxy
+2 qid:600 3:1 6:1 1278:1 2151:1 #tab
+99 qid:600 1:1 4:1 1248:1 1587:1 #3
+2 qid:600 2:1 5:1 #neo
+7 qid:601 393:1 2770:1 #men
+1 qid:601 51:1 2306:1 #kurta
+99 qid:601 1225:1 2845:1 #with
+2 qid:601 761:1 1938:1 #modi
+1 qid:601 #jacket
+1 qid:602 650:1 1823:1 #saree
+99 qid:602 1183:1 1586:1 #in
+3 qid:602 278:1 2195:1 #blue
+2 qid:602 #color
+7 qid:603 67:1 1985:1 #lady
+2 qid:603 713:1 1612:1 #love
+1 qid:603 #bra
+2 qid:604 1283:1 3068:1 #ipl
+99 qid:604 444:1 1620:1 #cricket
+1 qid:604 3:1 6:1 1523:1 2828:1 #card
+6 qid:604 1:1 4:1 #2016
+1 qid:605 1058:1 1798:1 #gift
+2 qid:605 313:1 2531:1 #studio
+2 qid:605 253:1 2058:1 #electric
+99 qid:605 986:1 2603:1 #lunch
+1 qid:605 #box
+1 qid:606 1452:1 1773:1 #laptop
+1 qid:606 3:1 6:1 300:1 2117:1 #bag
+99 qid:606 1:1 4:1 228:1 2997:1 #18
+4 qid:606 2:1 5:1 #inch
+3 qid:607 1183:1 1592:1 #yellow
+2 qid:607 14:1 2728:1 #net
+1 qid:607 #saree
+7 qid:608 1364:1 1755:1 #lady
+2 qid:608 713:1 2909:1 #queen
+1 qid:608 #handbag
+2 qid:609 996:1 1587:1 #oppo
+2 qid:609 941:1 2659:1 #neo
+99 qid:609 42:1 2541:1 #back
+1 qid:609 #cover
+2 qid:610 314:1 1817:1 #samsung
+2 qid:610 1554:1 1859:1 #air
+1 qid:610 #cooler
+2 qid:611 1381:1 1736:1 #aaditri
+2 qid:611 100:1 2728:1 #fashion
+1 qid:611 191:1 2926:1 #saree
+99 qid:611 #combo
+2 qid:612 82:1 2935:1 #micromax
+2 qid:612 1065:1 1627:1 #yureka
+1 qid:612 #phone
+2 qid:613 996:1 2823:1 #samsung
+2 qid:613 6:1 12:1 1554:1 2021:1 #galaxy
+99 qid:613 4:1 10:1 1278:1 1735:1 #s4
+2 qid:613 5:1 6:1 11:1 12:1 476:1 2712:1 #mini
+99 qid:613 4:1 10:1 190:1 3080:1 #i9192
+2 qid:613 5:1 11:1 1167:1 2541:1 #flip
+1 qid:613 #cover
+99 qid:614 1410:1 2461:1 #tubeless
+2 qid:614 838:1 2393:1 #ceat
+2 qid:614 916:1 2605:1 #two
+2 qid:614 848:1 2955:1 #wheeler
+1 qid:614 3:1 6:1 1060:1 2101:1 #tyre
+99 qid:614 1:1 4:1 1410:1 2605:1 #2
+2 qid:614 2:1 5:1 556:1 2955:1 #wheeler
+1 qid:614 #tyre
+99 qid:615 4:1 10:1 392:1 2635:1 #s6
+2 qid:615 5:1 11:1 474:1 2697:1 #edge
+2 qid:615 1090:1 1937:1 #tempered
+2 qid:615 #glass
+2 qid:616 1267:1 2984:1 #mini
+2 qid:616 190:1 2812:1 #laser
+1 qid:616 #light
+2 qid:617 604:1 1691:1 #asian
+3 qid:617 15:1 2175:1 #navy
+99 qid:617 146:1 2149:1 #sport
+1 qid:617 #shoe
+2 qid:618 1380:1 2068:1 #micromax
+2 qid:618 1065:1 1738:1 #canvas
+2 qid:618 6:1 12:1 523:1 2925:1 #nitro
+99 qid:618 4:1 10:1 #a311
+2 qid:619 686:1 1903:1 #extra
+99 qid:619 1100:1 1998:1 #virgin
+2 qid:619 358:1 2231:1 #olive
+1 qid:619 #oil
+7 qid:620 680:1 2305:1 #kid
+1 qid:620 293:1 2225:1 #cycle
+1 qid:620 #helmet
+2 qid:621 1302:1 1681:1 #power
+1 qid:621 737:1 2847:1 #bank
+2 qid:621 #ambrane
+2 qid:622 548:1 1599:1 #pampers
+2 qid:622 1487:1 2778:1 #active
+7 qid:622 54:1 2093:1 #baby
+99 qid:622 #xl
+2 qid:623 21:1 2553:1 #hero
+2 qid:623 50:1 1566:1 #karizma
+1 qid:623 #bike
+2 qid:624 814:1 2792:1 #havells
+2 qid:624 962:1 2245:1 #high
+2 qid:624 1247:1 2966:1 #speed
+99 qid:624 700:1 2359:1 #wall
+1 qid:624 #fan
+2 qid:625 228:1 1671:1 #nike
+99 qid:625 283:1 2119:1 #backpack
+2 qid:625 126:1 1773:1 #and
+1 qid:625 #bag
+2 qid:626 814:1 2969:1 #solar
+1 qid:626 370:1 2359:1 #table
+1 qid:626 #fan
+2 qid:627 996:1 2317:1 #infocus
+99 qid:627 4:1 10:1 1466:1 3080:1 #m530
+2 qid:627 5:1 11:1 772:1 2541:1 #flip
+1 qid:627 #cover
+2 qid:628 1550:1 2035:1 #apple
+2 qid:628 1221:1 3095:1 #mac
+1 qid:628 #book
+2 qid:629 51:1 2119:1 #fair
+2 qid:629 1329:1 3077:1 #and
+2 qid:629 574:1 1596:1 #lovely
+7 qid:629 #men
+99 qid:630 51:1 2102:1 #cotton
+3 qid:630 1157:1 2624:1 #white
+1 qid:630 557:1 1596:1 #shirt
+7 qid:630 #men
+1 qid:631 464:1 2119:1 #headphone
+2 qid:631 1515:1 2009:1 #and
+1 qid:631 #earphone
+2 qid:632 996:1 2823:1 #samsung
+2 qid:632 1554:1 2627:1 #galaxy
+2 qid:632 3:1 6:1 1278:1 2101:1 #grand
+99 qid:632 1:1 4:1 1082:1 2483:1 #2
+1 qid:632 2:1 5:1 556:1 2541:1 #bumper
+1 qid:632 #cover
+2 qid:633 75:1 2038:1 #iball
+2 qid:633 1198:1 1620:1 #data
+1 qid:633 #card
+2 qid:634 996:1 2396:1 #iphone
+99 qid:634 1:1 4:1 447:1 1892:1 #6
+2 qid:634 2:1 5:1 851:1 2541:1 #plus
+1 qid:634 #cover
+2 qid:635 464:1 2850:1 #nokia
+2 qid:635 1497:1 3060:1 #bluetooth
+1 qid:635 6:1 1305:1 2772:1 #headphone
+99 qid:635 4:1 1515:1 2009:1 #&
+1 qid:635 5:1 #earphone
+2 qid:636 82:1 3033:1 #vivo
+2 qid:636 372:1 1627:1 #smart
+1 qid:636 #phone
+2 qid:637 314:1 2015:1 #symphony
+99 qid:637 359:1 1817:1 #winter
+2 qid:637 470:1 1859:1 #air
+1 qid:637 #cooler
+2 qid:638 701:1 1768:1 #bridal
+11 qid:638 1102:1 2246:1 #wedding
+1 qid:638 #lehenga
+2 qid:639 601:1 2798:1 #lenovo
+2 qid:639 183:1 2146:1 #vibe
+2 qid:639 #shot
+2 qid:640 1096:1 2360:1 #adidas
+1 qid:640 842:1 2641:1 #floater
+2 qid:640 #sandal
+2 qid:641 906:1 1870:1 #nike
+2 qid:641 283:1 2451:1 #zoom
+2 qid:641 #pegasus
+2 qid:642 492:1 2282:1 #sony
+2 qid:642 816:1 1681:1 #power
+1 qid:642 3:1 6:1 737:1 2616:1 #bank
+99 qid:642 1:1 4:1 136:1 2037:1 #10000
+4 qid:642 2:1 5:1 #mah
+7 qid:643 883:1 1867:1 #boy
+1 qid:643 433:1 2428:1 #jean
+1 qid:643 #pant
+2 qid:644 1180:1 2720:1 #swipe
+2 qid:644 952:1 2102:1 #virtue
+3 qid:644 3:1 6:1 1175:1 2116:1 #white
+99 qid:644 1:1 4:1 557:1 2725:1 #16
+4 qid:644 2:1 5:1 #gb
+2 qid:645 51:1 2641:1 #lotto
+2 qid:645 732:1 1875:1 #sandal
+99 qid:645 1096:1 1596:1 #for
+7 qid:645 #men
+2 qid:646 51:1 2175:1 #nike
+99 qid:646 283:1 2149:1 #sport
+1 qid:646 630:1 1596:1 #shoe
+7 qid:646 #men
+2 qid:647 392:1 2823:1 #samsung
+2 qid:647 1554:1 2627:1 #galaxy
+2 qid:647 1278:1 2053:1 #grand
+2 qid:647 6:1 9:1 1082:1 3102:1 #prime
+99 qid:647 4:1 7:1 508:1 2697:1 #4g
+2 qid:647 5:1 8:1 1557:1 1937:1 #tempered
+2 qid:647 #glass
+2 qid:648 607:1 1852:1 #micromax
+99 qid:648 4:1 10:1 1065:1 2991:1 #x073
+2 qid:648 5:1 11:1 307:1 2805:1 #dual
+2 qid:648 1446:1 1627:1 #sim
+1 qid:648 1260:1 2152:1 #phone
+3 qid:648 #black
+2 qid:649 82:1 2632:1 #intex
+99 qid:649 7:1 720:1 1737:1 #3gb
+2 qid:649 8:1 1087:1 1627:1 #ram
+1 qid:649 #phone
+2 qid:650 694:1 2573:1 #tupperware
+99 qid:650 1084:1 1976:1 #fliptop
+2 qid:650 1028:1 2239:1 #water
+1 qid:650 #bottle
+2 qid:651 996:1 2018:1 #samsung
+99 qid:651 4:1 10:1 1554:1 2635:1 #s7
+2 qid:651 5:1 11:1 473:1 2541:1 #edge
+1 qid:651 #cover
+2 qid:652 464:1 3060:1 #jabra
+1 qid:652 6:1 378:1 2772:1 #headphone
+99 qid:652 4:1 1515:1 2009:1 #&
+1 qid:652 5:1 #earphone
+2 qid:653 1046:1 2823:1 #samsung
+2 qid:653 6:1 12:1 1554:1 2021:1 #galaxy
+99 qid:653 4:1 10:1 1278:1 2591:1 #s4
+1 qid:653 5:1 11:1 #battery
+1 qid:654 1468:1 1875:1 #loafer
+99 qid:654 932:1 1596:1 #for
+7 qid:654 330:1 3013:1 #men
+2 qid:654 #latest
+2 qid:655 51:1 2003:1 #titan
+1 qid:655 728:1 1875:1 #wallet
+99 qid:655 458:1 1596:1 #for
+7 qid:655 #men
+2 qid:656 136:1 2282:1 #samsung
+2 qid:656 1554:1 1681:1 #power
+1 qid:656 #bank
+2 qid:657 1002:1 2823:1 #samsung
+2 qid:657 6:1 12:1 1554:1 2333:1 #galaxy
+99 qid:657 4:1 10:1 1278:1 2547:1 #a8
+3 qid:657 5:1 11:1 #gold
+2 qid:658 21:1 2591:1 #exide
+1 qid:658 1043:1 1875:1 #battery
+99 qid:658 1046:1 1566:1 #for
+1 qid:658 #bike
+2 qid:659 600:1 2272:1 #real
+99 qid:659 708:1 1933:1 #madrid
+1 qid:659 727:1 2359:1 #football
+1 qid:659 388:1 2145:1 #fan
+2 qid:659 #shop
+2 qid:660 607:1 1596:1 #spark
+7 qid:660 644:1 2086:1 #men
+1 qid:660 51:1 2360:1 #footwear
+1 qid:660 541:1 2641:1 #floater
+2 qid:660 815:1 2152:1 #sandal
+3 qid:660 #black
+99 qid:661 1:1 4:1 1434:1 2535:1 #20
+4 qid:661 2:1 5:1 895:1 2750:1 #watt
+2 qid:661 990:1 2979:1 #led
+1 qid:661 #bulb
+2 qid:662 75:1 2579:1 #sandisk
+99 qid:662 7:1 55:1 1993:1 #4gb
+1 qid:662 8:1 1034:1 1620:1 #memory
+1 qid:662 #card
+2 qid:663 1515:1 1992:1 #apple
+2 qid:663 1221:1 3060:1 #iphone
+1 qid:663 #headphone
+2 qid:664 82:1 3033:1 #oppo
+2 qid:664 941:1 1627:1 #smart
+1 qid:664 #phone
+2 qid:665 51:1 1867:1 #pepe
+1 qid:665 884:1 1596:1 #jean
+7 qid:665 #men
+2 qid:666 675:1 2449:1 #yonex
+2 qid:666 705:1 2220:1 #shuttle
+2 qid:666 #cock
+4 qid:667 4:1 314:1 2866:1 #l
+99 qid:667 4:1 5:1 137:1 1817:1 #g
+2 qid:667 5:1 1321:1 1859:1 #air
+1 qid:667 272:1 1817:1 #cooler
+2 qid:667 314:1 1859:1 #air
+1 qid:667 #cooler
+99 qid:668 1:1 4:1 75:1 2725:1 #16
+4 qid:668 2:1 5:1 571:1 2411:1 #gb
+2 qid:668 1180:1 1993:1 #transcend
+1 qid:668 866:1 1620:1 #memory
+1 qid:668 #card
+2 qid:669 996:1 2929:1 #xolo
+2 qid:669 882:1 2659:1 #cube
+99 qid:669 1384:1 2541:1 #back
+1 qid:669 #cover
+99 qid:670 869:1 2689:1 #woman
+1 qid:670 809:1 2119:1 #suit
+2 qid:670 1144:1 2414:1 #and
+1 qid:670 #dress
+2 qid:671 136:1 2282:1 #asus
+2 qid:671 998:1 1681:1 #power
+1 qid:671 #bank
+2 qid:672 1515:1 3070:1 #sony
+2 qid:672 816:1 3060:1 #xperia
+1 qid:672 #headphone
+2 qid:673 996:1 3053:1 #lava
+2 qid:673 6:1 12:1 683:1 2104:1 #iris
+99 qid:673 4:1 10:1 1508:1 2541:1 #x8
+1 qid:673 5:1 11:1 #cover
+2 qid:674 587:1 2984:1 #color
+2 qid:674 650:1 2132:1 #laser
+1 qid:674 #printer
+2 qid:675 1481:1 2823:1 #samsung
+2 qid:675 1554:1 2627:1 #galaxy
+2 qid:675 1278:1 1721:1 #grand
+2 qid:675 12:1 1082:1 3026:1 #quattro
+99 qid:675 10:1 #gt18552
+2 qid:676 1202:1 3033:1 #vivo
+2 qid:676 372:1 1627:1 #smart
+1 qid:676 6:1 9:1 1488:1 2747:1 #phone
+99 qid:676 4:1 7:1 #3g
+2 qid:677 464:1 3060:1 #soundmagic
+1 qid:677 6:1 850:1 2772:1 #headphone
+99 qid:677 4:1 1515:1 2009:1 #&
+1 qid:677 5:1 #earphone
+2 qid:678 314:1 1817:1 #havells
+2 qid:678 962:1 1859:1 #air
+1 qid:678 #cooler
+2 qid:679 75:1 2738:1 #samsung
+99 qid:679 1554:1 1892:1 #evo
+2 qid:679 3:1 6:1 1193:1 2116:1 #plus
+99 qid:679 1:1 4:1 347:1 2725:1 #16
+4 qid:679 2:1 5:1 571:1 1993:1 #gb
+1 qid:679 1180:1 1620:1 #memory
+1 qid:679 #card
+2 qid:680 1183:1 1657:1 #lehngasarees
+3 qid:680 1136:1 2728:1 #green
+1 qid:680 #saree
+99 qid:681 1:1 4:1 593:1 2725:1 #16
+4 qid:681 2:1 5:1 571:1 2669:1 #gb
+2 qid:681 1180:1 2138:1 #pen
+2 qid:681 #drive
+2 qid:682 1031:1 2127:1 #samsung
+2 qid:682 3:1 6:1 1554:1 2602:1 #note
+99 qid:682 1:1 4:1 582:1 2576:1 #4
+1 qid:682 2:1 5:1 #case
+2 qid:683 51:1 2149:1 #liberty
+1 qid:683 43:1 1875:1 #shoe
+99 qid:683 604:1 1596:1 #for
+7 qid:683 #men
+2 qid:684 556:1 2964:1 #intex
+2 qid:684 720:1 3098:1 #aqua
+2 qid:684 3:1 6:1 1419:1 2101:1 #star
+99 qid:684 1:1 4:1 #2
+2 qid:685 1096:1 2360:1 #crocs
+1 qid:685 750:1 2641:1 #floater
+2 qid:685 #sandal
+2 qid:686 993:1 2701:1 #samsung
+99 qid:686 1554:1 2401:1 #single
+1 qid:686 1156:1 2538:1 #door
+1 qid:686 #refrigerator
+3 qid:687 869:1 1743:1 #black
+2 qid:687 607:1 2414:1 #maxi
+1 qid:687 198:1 2414:1 #dress
+1 qid:687 #dress
+2 qid:688 228:1 1845:1 #acer
+1 qid:688 770:1 1773:1 #laptop
+1 qid:688 #bag
